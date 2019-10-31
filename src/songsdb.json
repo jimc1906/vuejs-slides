@@ -1,7 +1,8 @@
 {
     "songs": [
         {
-            "title": "God Rest Ye Merry, Gentlemen; ",
+            "indexId": 1,
+            "title": "God Rest Ye Merry, Gentlemen",
             "lyricParts": [
                 "God rest ye merry, gentlemen;<p/>let nothing you dismay<p/>Remember Christ our Saviour was <p/>born on Christmas Day<p/>To save us all from Satan’s pow’r <p/>when we were gone astray",
                 "O tidings of comfort and joy, <p/>comfort and joy!<p/>O tidings of comfort and joy",
@@ -12,6 +13,7 @@
             ]
         },
         {
+            "indexId": 2,
             "title": "Before the Throne of God Above",
             "lyricParts": [
                 "Before the throne of God above<p/>I have a strong and perfect plea<p/>A great High Priest, whose name is love,<p/>Whoever lives and pleads for me.",
@@ -23,27 +25,19 @@
             ]
         },
         {
-            "title": "Let the Walls Fall Down,",
-            "lyricParts": [
-                "Let the walls fall down,<p/>Let the walls fall down,<p/>Let the walls fall down,<p/>By His love let the walls fall down.<p/>(Repeat)",
-                "One, by one, we’re drawn together,<p/>One, by one, to Jesus’ side.<p/>One in Him we’ll live forever,<p/>Strangers He has reconciled.",
-                "Let the walls fall down,<p/>Let the walls fall down,<p/>Let the walls fall down,<p/>By His love let the walls fall down.",
-                "In His love no walls between us,<p/>In His love a common ground.<p/>Kneeling at the cross of Jesus,<p/>All our pride comes tumbling down.",
-                "Let the walls fall down,<p/>Let the walls fall down,<p/>Let the walls fall down,<p/>By His love let the walls fall down."
-            ]
-        },
-        {
+            "indexId": 3,
             "title": "God of Wonders",
             "lyricParts": [
                 "Lord of all creation<p/>Of water, earth and sky,<p/>The heavens are Your tabernacle,<p/>Glory to the Lord on high.",
                 "God of wonders beyond our galaxy,<p/>You are holy, holy!<p/>The universe declares Your majesty,<p/>You are holy, holy,<p/>Lord of heaven and earth (2x)",
                 "Early in the morning,<p/>I will celebrate the light.<p/>When I stumble in the darkness,<p/>I will call Your Name by night.",
                 "God of wonders beyond our galaxy,<p/>You are holy, holy!<p/>The universe declares Your majesty,<p/>You are holy, holy,<p/>Lord of heaven and earth (2x)",
-                "Hallelujah (guys)<p/>To the Lord of heaven and earth (girls)<p/>(Repeat 3x)",
+                "Hallelujah (guys)<p/>To the Lord of heaven and earth (girls)<p style='margin-top:80px'/>(Repeat 3x)",
                 "God of wonders beyond our galaxy,<p/>You are holy, holy!<p/>The universe declares Your majesty,<p/>You are holy, holy,<p/>Lord of heaven and earth (2x)"
             ]
         },
         {
+            "indexId": 4,
             "title": "The Stand",
             "lyricParts": [
                 "You stood before creation<p/>Eternity in Your hand<p/>You spoke the earth into motion<p/>My soul now to stand",
@@ -51,26 +45,28 @@
                 "So what can I say<p/>And what could I do<p/>But offer this heart O God<p/>Completely to You",
                 "So I’ll walk upon salvation<p/>Your Spirit alive in me<p/>This life to declare Your promise<p/>My soul now to stand",
                 "So I’ll stand<p/>With arms high and heart abandoned<p/>In awe of the One who gave it all<p/>I’ll stand<p/>My soul Lord to You surrendered<p/>All I am is Yours",
-                "So I’ll stand<p/>With arms high and heart abandoned<p/>In awe of the One who gave it all<p/>I’ll stand<p/>My soul Lord to You surrendered<p/>All I am is Yours"
+                "<p style='margin-top: 3em'>So I’ll stand</p>With arms high and heart abandoned<p/>In awe of the One who gave it all<p/>I’ll stand<p/>My soul Lord to You surrendered<p/>All I am is Yours",
+                "So what can I say<p/>And what could I do<p/>But offer this heart O God<p/>Completely to You"
             ]
         },
         {
-            "title": "Lord, I lift your name on high",
+            "indexId": 5,
+            "title": "Lord I Lift Your Name on High",
             "lyricParts": [
-                "Lord, I love to sing your praises<p/>I’m so glad you’re in my life<p/>I’m so glad you came to save us<p/>Lord I Lift Your Name on High",
+                "Lord, I lift your name on high<p/>Lord, I love to sing your praises<p/>I’m so glad you’re in my life<p/>I’m so glad you came to save us<p/>",
                 "You came from heaven to earth<p/>To show the way<p/>From the earth to the cross<p/>My debt to pay",
-                "",
                 "From the cross to the grave<p/>From the grave to the sky<p/>Lord, I lift your name on high",
                 "Lord, I lift your name on high<p/>Lord, I love to sing your praises<p/>I’m so glad you’re in my life<p/>I’m so glad you came to save us",
                 "You came from heaven to earth<p/>To show the way<p/>From the earth to the cross<p/>My debt to pay",
                 "",
                 "From the cross to the grave<p/>From the grave to the sky<p/>Lord, I lift your name on high",
                 "You came from heaven to earth<p/>To show the way<p/>From the earth to the cross<p/>My debt to pay",
-                ""
+                "From the cross to the grave<p/>From the grave to the sky<p/>Lord, I lift your name on high<p/>Lord, I lift your name on high<p/>Lord, I lift your name on high"
             ]
         },
         {
-            "title": "Nothin’",
+            "indexId": 6,
+            "title": "Nothin’ - jac",
             "lyricParts": [
                 "Nothin’ can wash away my sin,<p/>Nothin’ can wash away my sin,<p/>Nothin’ can wash away my sin,<p/>Nothin’, nothin’, nothin’ but the blood of Jesus.",
                 "Nothin’ can bring me peace with God,<p/>Nothin’ can bring me peace with God,<p/>Nothin’ can bring me peace with God,<p/>Nothin’, nothin’, nothin’ but the blood of Jesus.",
@@ -78,6 +74,7 @@
             ]
         },
         {
+            "indexId": 7,
             "title": "Here at your feet  I lay my past down",
             "lyricParts": [
                 "My wanderings all my mistakes down<p/>And I am free<p/>At Your Feet",
@@ -90,6 +87,7 @@
             ]
         },
         {
+            "indexId": 8,
             "title": "God With Us",
             "lyricParts": [
                 "Who are we  That You would be mindful of us<p/>What do You see  That’s worth looking our way<p/>We are free  In ways that we never should be<p/>Sweet release  From the grip of these chains",
@@ -103,6 +101,7 @@
             ]
         },
         {
+            "indexId": 9,
             "title": "Love the Lord Your God ",
             "lyricParts": [
                 "with all your heart, with all your soul<p/>with all your mind, with all your strength<p/>Love the Lord",
@@ -120,6 +119,7 @@
             ]
         },
         {
+            "indexId": 10,
             "title": "All in All",
             "lyricParts": [
                 "You are my strength when I am weak.<p/>You are the treasure that I seek<p/>You are my all in all",
@@ -131,6 +131,7 @@
             ]
         },
         {
+            "indexId": 11,
             "title": "Let Us Adore",
             "lyricParts": [
                 "The heavens declare<p/>The glory of God<p/>And all of the world will join the praise<p/>His wonders proclaim",
@@ -144,6 +145,7 @@
             ]
         },
         {
+            "indexId": 12,
             "title": "O God your are my God",
             "lyricParts": [
                 "And I will ever praise you<p/>(repeat)<p/>Step by Step",
@@ -152,10 +154,12 @@
             ]
         },
         {
+            "indexId": 13,
             "title": "Thank you Lord for saving my soul",
             "lyricParts": []
         },
         {
+            "indexId": 14,
             "title": "More Than Conquerors",
             "lyricParts": [
                 "When my hope and strength is gone,<p/>You are the One who calls me on.<p/>You are the life.<p/>You are the fight that’s in my soul.",
@@ -176,6 +180,7 @@
             ]
         },
         {
+            "indexId": 15,
             "title": "All Hail the Power Jesus’ Name",
             "lyricParts": [
                 "All hail the pow’r of Jesus’ name<p/>Let angels prostrate fall<p/>Bring forth the royal diadem<p/>And crown Him Lord of all<p/>Bring forth the royal diadem<p/>And crown Him Lord of all",
@@ -185,6 +190,7 @@
             ]
         },
         {
+            "indexId": 16,
             "title": "Who has held the oceans in His hand?",
             "lyricParts": [
                 "Who has numbered every grain of sand?<p/>Kings and nations tremble at His voice<p/>All creation rises to rejoice<p/>Behold Our God",
@@ -198,6 +204,7 @@
             ]
         },
         {
+            "indexId": 17,
             "title": "In Christ Alone",
             "lyricParts": [
                 "In Christ alone, my hope is found,<p/>He is my light, my strength, my song;<p/>This Cornerstone, this solid Ground,<p/>Firm through the fiercest drought and storm.",
@@ -210,6 +217,7 @@
             ]
         },
         {
+            "indexId": 18,
             "title": "I hear the Savior say,",
             "lyricParts": [
                 "“Thy strength indeed is small;<p/>Child of weakness, watch and pray,<p/>Find in Me thine all in all.”<p/>Jesus Paid It All",
@@ -223,6 +231,7 @@
             ]
         },
         {
+            "indexId": 19,
             "title": "You Never Let Go",
             "lyricParts": [
                 "Even though I walk<p/>through the valley of the shadow of death<p/>Your perfect love is casting out fear<p/>And even when I’m caught<p/>In the middle of the storms of this life<p/>I won’t turn back I know you are near",
@@ -240,12 +249,14 @@
             ]
         },
         {
+            "indexId": 20,
             "title": "I love you, Lord",
             "lyricParts": [
                 "And I lift my voice<p/>To worship you, <p/>O my soul, rejoice!<p/>I Love You, Lord"
             ]
         },
         {
+            "indexId": 21,
             "title": "Every Move I Make",
             "lyricParts": [
                 "La, La, La, La, La, La…",
@@ -257,6 +268,7 @@
             ]
         },
         {
+            "indexId": 22,
             "title": "Sing and Shout",
             "lyricParts": [
                 "Your cross Your cross<p/>It draws me to Your heart<p/>It makes my spirit sing<p/>It makes my spirit sing",
@@ -282,6 +294,7 @@
             ]
         },
         {
+            "indexId": 23,
             "title": "Jesus is the Rock",
             "lyricParts": [
                 "Jesus is the Rock <p/>and he rolls my blues away",
@@ -297,6 +310,7 @@
             ]
         },
         {
+            "indexId": 24,
             "title": "It’s there in the newborn cry",
             "lyricParts": [
                 "There in the light of ev’ry sunrise<p/>There in the shadows of this life<p/>Your great grace<p/>Your Grace Finds Me",
@@ -314,6 +328,7 @@
             ]
         },
         {
+            "indexId": 25,
             "title": "God is Alive",
             "lyricParts": [
                 "Let the darkness flee,<p/>it’s got no power over me<p/>I have been set free.<p/>God is alive!",
@@ -330,6 +345,7 @@
             ]
         },
         {
+            "indexId": 26,
             "title": "I have a Maker, ",
             "lyricParts": [
                 "He formed my heart;<p/>Before even time began,<p/>my life was in His hands<p/>He Knows My Name",
@@ -339,10 +355,12 @@
             ]
         },
         {
+            "indexId": 27,
             "title": "Love, Joy, Peace, Patience",
             "lyricParts": []
         },
         {
+            "indexId": 28,
             "title": "Come Thou Fount",
             "lyricParts": [
                 "Come Thou Fount of every blessing<p/>Tune my heart to sing Thy grace;<p/>Streams of mercy, never ceasing,<p/>Call for songs of loudest praise",
@@ -355,6 +373,7 @@
             ]
         },
         {
+            "indexId": 29,
             "title": "Lord I come, I confess",
             "lyricParts": [
                 "Bowing here I find my rest<p/>Without You, I fall apart<p/>You’re the one that guides my heart<p/>Lord I Need You",
@@ -368,6 +387,7 @@
             ]
         },
         {
+            "indexId": 30,
             "title": "What can wash away my sin",
             "lyricParts": [
                 "Nothing but the blood of Jesus;<p/>What can make me whole again<p/>Nothing but the blood of Jesus<p/>Nothing But the Blood",
@@ -380,6 +400,7 @@
             ]
         },
         {
+            "indexId": 31,
             "title": "My soul is anchored ",
             "lyricParts": [
                 "to heaven’s holy veil<p/>For Christ, the Great High Priest<p/>Died in my stead",
@@ -399,6 +420,7 @@
             ]
         },
         {
+            "indexId": 32,
             "title": "How deep the Father’s love for us",
             "lyricParts": [
                 "How vast beyond all measure<p/>That He should give His only Son<p/>To make a wretch His treasure<p/>How Deep the Father’s Love For Us",
@@ -410,6 +432,7 @@
             ]
         },
         {
+            "indexId": 33,
             "title": "He became sin who knew no sin",
             "lyricParts": [
                 "That we might become His righteousness<p/>He humbled Himself and carried the cross<p/>Love so amazing -- love so amazing<p/>Jesus Messiah",
@@ -421,12 +444,14 @@
             ]
         },
         {
+            "indexId": 34,
             "title": "Away in a manger, no crib for a bed.",
             "lyricParts": [
                 "The little Lord Jesus lay down his sweet head.<p/>The stars in the sky look down where he lay.<p/>The little Lord Jesus asleep on the hay.<p/>Away in a Manger"
             ]
         },
         {
+            "indexId": 35,
             "title": "We Three Kings of Orient are; ",
             "lyricParts": [
                 "Bearing gifts we traverse afar;<p/>Field and fountain, moor and mountain; <p/>Following yonder star.<p/>We Three Kings",
@@ -439,6 +464,7 @@
             ]
         },
         {
+            "indexId": 36,
             "title": "Mighty is our God;",
             "lyricParts": [
                 "Mighty is our King;<p/>Mighty is our Lord<p/>Ruler of everything<p/>Mighty Is Our God",
@@ -448,6 +474,7 @@
             ]
         },
         {
+            "indexId": 37,
             "title": "Here I Am To Worship",
             "lyricParts": [
                 "Light of the world You stepped down into darkness<p/>Opened my eyes let me see<p/>Beauty that made this heart adore You<p/>Hope of a life spent with You",
@@ -458,6 +485,7 @@
             ]
         },
         {
+            "indexId": 38,
             "title": "It Is Well",
             "lyricParts": [
                 "When peace like a river<p/>Attendeth my way<p/>When sorrows like sea billows roll<p/>Whatever my lot, You have taught me to say<p/>It is well; it is well with my soul",
@@ -471,6 +499,7 @@
             ]
         },
         {
+            "indexId": 39,
             "title": "Blessed Be Your Name",
             "lyricParts": [
                 "Blessed be your name<p/>in the land that is plentiful<p/>Where your streams of abundance flow,<p/>Blessed be your name",
@@ -487,6 +516,7 @@
             ]
         },
         {
+            "indexId": 40,
             "title": "Joy to the World",
             "lyricParts": [
                 "Joy to the World, the Lord has come!<p/>Let earth receive her King;<p/>Let every heart prepare Him room,<p/>Joy to the World",
@@ -497,6 +527,7 @@
             ]
         },
         {
+            "indexId": 41,
             "title": "I've got peace like a river,",
             "lyricParts": [
                 "I've got peace like a river,<p/>I've got peace like a river in my soul.<p/>Peace Like a River",
@@ -509,6 +540,7 @@
             ]
         },
         {
+            "indexId": 42,
             "title": "Man of Sorrows",
             "lyricParts": [
                 "Man of sorrows Lamb of God<p/>By His own betrayed<p/>The sin of man and wrath of God<p/>Has been on Jesus laid",
@@ -523,7 +555,8 @@
             ]
         },
         {
-            "title": "Everlasting Love",
+            "indexId": 43,
+            "title": "Eerlasting Love",
             "lyricParts": [
                 "Your everlasting love is higher,<p/>higher, higher than the sky<p/>Your everlasting love is higher,<p/>higher, higher than the sky",
                 "Higher than the sky<p/>All the wonders of<p/>Your everlasting love<p/>are higher than the sky",
@@ -536,6 +569,7 @@
             ]
         },
         {
+            "indexId": 44,
             "title": "10,000 Reasons",
             "lyricParts": [
                 "Bless the Lord, O my soul,<p/>O my soul,<p/>Worship His holy name.<p/>Sing like never before,<p/>O my soul.<p/>I’ll worship Your holy name.",
@@ -552,6 +586,7 @@
             ]
         },
         {
+            "indexId": 45,
             "title": "Our God",
             "lyricParts": [
                 "Water you turned into wine<p/>Opened the eyes of the blind<p/>There’s no one like You<p/>None like You",
@@ -570,6 +605,7 @@
             ]
         },
         {
+            "indexId": 46,
             "title": "Walk By Faith",
             "lyricParts": [
                 "Will I believe you when you say<p/>Your hand will guide my every way<p/>Will I receive the words you say<p/>Every moment of every day",
@@ -581,6 +617,7 @@
             ]
         },
         {
+            "indexId": 47,
             "title": "Go tell it on the mountain",
             "lyricParts": [
                 "Over the hills and everywhere<p/>Go tell it on the mountain<p/>That Jesus Christ is born<p/>Go Tell it on the Mountain",
@@ -592,6 +629,7 @@
             ]
         },
         {
+            "indexId": 48,
             "title": "Angels we have heard on high",
             "lyricParts": [
                 "Sweetly singing o’er the plains<p/>And the mountains in reply,<p/>Echoing their joyous strains;<p/>Angels We Have Heard on High",
@@ -605,6 +643,7 @@
             ]
         },
         {
+            "indexId": 49,
             "title": "His Mercy is More",
             "lyricParts": [
                 "What love could remember <p/>no wrongs we have done<p/>Omniscient all knowing He counts not their sum<p/>Thrown into a sea without bottom or shore<p/>Out sins they are many His mercy is more",
@@ -615,6 +654,7 @@
             ]
         },
         {
+            "indexId": 50,
             "title": "O come, all ye faithful, joyful and triumphant;",
             "lyricParts": [
                 "O come, ye, O come, ye, to Bethlehem.<p/>Come and behold Him, born the King of angels;<p/>O Come, All Ye Faithful",
@@ -625,6 +665,7 @@
             ]
         },
         {
+            "indexId": 51,
             "title": "Amazing Grace (Unending Love)",
             "lyricParts": [
                 "Amazing Grace, how sweet the sound,<p/>That saved a wretch like me…<p/>I once was lost but now am found,<p/>Was blind, but now I see.",
@@ -635,6 +676,7 @@
             ]
         },
         {
+            "indexId": 52,
             "title": "We stand and lift up our hands",
             "lyricParts": [
                 "For the joy of the Lord is our strength<p/>We bow down and worship Him now<p/>How great, how awesome is He<p/>And together we sing<p/>Everyone sing<p/>Holy is the Lord",
@@ -647,6 +689,7 @@
             ]
         },
         {
+            "indexId": 53,
             "title": "He Will Hold Me Fast",
             "lyricParts": [
                 "When I fear my faith will fail<p/>Christ will hold me fast<p/>When the tempter would prevail<p/>He will hold me fast",
@@ -660,6 +703,7 @@
             ]
         },
         {
+            "indexId": 54,
             "title": "Your Great Name",
             "lyricParts": [
                 "Lost are saved, find their way<p/>At the sound of your great name<p/>All condemned feel no shame<p/>At the sound of your great name",
@@ -674,6 +718,7 @@
             ]
         },
         {
+            "indexId": 55,
             "title": "Worthy is the Lamb Who was slain",
             "lyricParts": [
                 "Holy holy is He<p/>Sing a new song to Him Who sits on<p/>Heaven’s mercy seat<p/>Revelation Song",
@@ -684,6 +729,7 @@
             ]
         },
         {
+            "indexId": 56,
             "title": "Amazing Love",
             "lyricParts": [
                 "I’m forgiven, because you were forsaken<p/>I’m accepted, you were condemned<p/>I’m alive and well, your spirit is within me<p/>Because you died and rose again",
@@ -693,6 +739,7 @@
             ]
         },
         {
+            "indexId": 57,
             "title": "Death Was Arrested",
             "lyricParts": [
                 "Alone in my sorrow and dead in my sin<p/>Lost without hope with no place to begin<p/>Your love made a way to let mercy come in<p/>When death was arrested and my life began",
@@ -707,6 +754,7 @@
             ]
         },
         {
+            "indexId": 58,
             "title": "Silent night, Holy Night,",
             "lyricParts": [
                 "All is calm, All is bright.<p/>Round yon virgin, Mother and child.<p/>Holy Infant so tender and mild,<p/>Sleep in heavenly peace,<p/>Sleep in Heavenly peace.<p/>Silent Night",
@@ -714,6 +762,7 @@
             ]
         },
         {
+            "indexId": 59,
             "title": "I once was lost in darkest night",
             "lyricParts": [
                 "Yet thought I knew the way<p/>The sin that promised joy and life<p/>Had led me to the grave<p/>All I Have is Christ",
@@ -727,6 +776,7 @@
             ]
         },
         {
+            "indexId": 60,
             "title": "In the morning, when I rise",
             "lyricParts": [
                 "In the morning, when I rise<p/>In the morning, when I rise<p/>Give me Jesus<p/>Give Me Jesus",
@@ -737,6 +787,7 @@
             ]
         },
         {
+            "indexId": 61,
             "title": "Great is Thy Faithfulness",
             "lyricParts": [
                 "Great is Thy faithfulness,<p/>O God my Father!<p/>There is no shadow of turning with Thee;<p/>Thou changest not - Thy compassions they fail not;<p/>As Thou hast been Thou forever wilt be.",
@@ -745,6 +796,7 @@
             ]
         },
         {
+            "indexId": 62,
             "title": "Guys \t\t\tGirls Echo",
             "lyricParts": [
                 "You are holy\t\t(You are holy)<p/>You are mighty\t\t(You are mighty)<p/>You are worthy\t\t(You are worthy)<p/>Worthy of praise\t\t(Worthy of praise)<p/>Prince of Peace",
@@ -759,6 +811,7 @@
             ]
         },
         {
+            "indexId": 63,
             "title": "We Bow Down",
             "lyricParts": [
                 "You are Lord of Creation<p/>and Lord of my life<p/>Lord of the land and the sea",
@@ -767,6 +820,18 @@
                 "You are King of Creation<p/>and King of my life<p/>King of the land and the sea.",
                 "You were King of the heavens<p/>before there was time.<p/>King of all Kings You will be."
             ]
+        },
+        {
+            "indexId": 64,
+            "title": "Let the Walls Fall Down,",
+            "lyricParts": [
+                "Let the walls fall down,<p/>Let the walls fall down,<p/>Let the walls fall down,<p/>By His love let the walls fall down.<p/>(Repeat)",
+                "One, by one, we’re drawn together,<p/>One, by one, to Jesus’ side.<p/>One in Him we’ll live forever,<p/>Strangers He has reconciled.",
+                "Let the walls fall down,<p/>Let the walls fall down,<p/>Let the walls fall down,<p/>By His love let the walls fall down.",
+                "In His love no walls between us,<p/>In His love a common ground.<p/>Kneeling at the cross of Jesus,<p/>All our pride comes tumbling down.",
+                "Let the walls fall down,<p/>Let the walls fall down,<p/>Let the walls fall down,<p/>By His love let the walls fall down."
+            ]
         }
+
     ]
 }

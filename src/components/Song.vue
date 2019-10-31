@@ -8,6 +8,7 @@
     <div class="footer">
       <button v-show="showPrevious" v-on:click="previousSlide()">&lt;</button>
       <button v-on:click="nextSlide()">&gt;</button>
+      <button v-on:click="fullScreen()">Toggle</button>
     </div>
 
     <Events
@@ -23,6 +24,7 @@
 <script>
 import songsdb from "@/songsdb.json";
 import Events from "vue-global-events";
+import screenfull from 'screenfull';
 
 export default {
   name: "Song",
@@ -67,6 +69,9 @@ export default {
       } else {
         this.currentSongSlideIndex--;
       }
+    },
+    fullScreen() {
+      screenfull.request()
     }
   },
   computed: {
@@ -82,6 +87,15 @@ export default {
   },
   created() {
     this.songs = songsdb.songs;
+    if (this.$route.params.songindexes) {
+      let indices = this.$route.params.songindexes.split(",").map(v => {
+        return parseInt(v);
+      });
+      this.songs = this.songs.filter(s => {
+        return indices.includes(s.indexId);
+      });
+    }
+
     this.currentSong = this.songs[this.currentSongIndex];
   }
 };
