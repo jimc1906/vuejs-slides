@@ -6,9 +6,10 @@
       v-html="currentSong.lyricParts[this.currentSongSlideIndex]"
     ></div>
     <div class="footer">
-      <button v-show="showPrevious" v-on:click="previousSlide()">&lt;</button>
-      <button v-on:click="nextSlide()">&gt;</button>
-      <button v-on:click="fullScreen()">Toggle</button>
+      <span style="float: left"><router-link to="/songlist"><button>Song List</button></router-link></span>
+<!--      <button v-show="showPrevious" v-on:click="previousSlide()">&lt;</button>
+      <button v-on:click="nextSlide()">&gt;</button> -->
+      <span style="float: right"><button v-on:click="fullScreen()">Present</button></span>
     </div>
 
     <Events
@@ -18,6 +19,8 @@
       @keydown.arrow-right="nextSlide"
       @mousedown.left="nextSlide"
     />
+          <!-- @mousedown.left="nextSlide" -->
+
   </div>
 </template>
 
@@ -91,9 +94,11 @@ export default {
       let indices = this.$route.params.songindexes.split(",").map(v => {
         return parseInt(v);
       });
-      this.songs = this.songs.filter(s => {
-        return indices.includes(s.indexId);
+      let selected = []
+      indices.forEach(element => {
+        selected.push(this.songs.find((s)=>{ return s.indexId === element }))
       });
+      this.songs = selected
     }
 
     this.currentSong = this.songs[this.currentSongIndex];
@@ -107,6 +112,7 @@ div {
 }
 .title {
   font-size: 36pt;
+  font-weight: bold;
   margin: 60px 0px 60px 0px;
 }
 
@@ -120,14 +126,15 @@ div {
 }
 
 .lyric > p {
-  margin: 0.1em 0 0.1em 0;
+  margin: -8px 0px;
 }
 
 .footer {
+  padding: 4px;
   background-color: rgb(207, 212, 212);
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 25px;
+  height: 35px;
 }
 </style>

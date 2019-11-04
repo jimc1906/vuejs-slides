@@ -1,27 +1,38 @@
 <template>
-  <div>
-    <div class="column">
-      <table>
-        <thead>
-          <th />
-          <th>Available Songs</th>
-        </thead>
-        <tr v-for="(avail, index) in songs" :key="index">
-          <td>
-            <button v-on:click="addSelection(avail)">Add</button>
-          </td>
-          <td>{{ avail.title }}</td>
-          <td>{{ avail.indexId}}</td>
-        </tr>
-      </table>
-    </div>
-    <div class="column">
-      <h1>Selections</h1>
-      <ul>
-        <li v-for="(selection, index) in selections" :key="index">{{ selection.title }}</li>
-      </ul>
-      <div>
-        <button v-on:click="clearAll()">Clear Current Selections</button>
+  <div style="padding-top: 30px" class="container-fluid">
+    <div class="row">
+      <div class="col-sm">
+        <h3>Available Songs</h3>
+        <div class="list-group overflow-auto border border-dark" style="height: 450px">
+          <li class="list-group-item" v-for="(avail, index) in songs" :key="index">
+            <span style="float: left">
+              <font-awesome-icon icon="plus-circle" v-on:click="addSelection(avail)" />
+            </span>
+            {{ avail.title }}
+            <span
+              style="float: right"
+              class="badge badge-dark"
+            >{{ avail.indexId }}</span>
+          </li>
+        </div>
+      </div>
+      <div class="col-sm">
+        <h3>Selections</h3>
+        <draggable v-show="selections && selections.length > 0" v-model="selections" @end="updateLink" class="list-group border border-dark">
+          <li class="list-group-item" v-for="(selection, index) in selections" :key="index">
+            {{ selection.title }}
+            <span
+              style="float: right"
+              class="badge badge-dark"
+            >{{ selection.indexId }}</span>
+          </li>
+        </draggable>
+        <div class="button-footer">
+          <button v-show="selections && selections.length > 0" v-on:click="clearAll()">Clear</button>
+        </div>
+        <div v-show="slideLink.length > 0">
+          <a :href="slideLink">Navigate to Slides</a>
+        </div>
       </div>
     </div>
   </div>
@@ -29,27 +40,43 @@
 
 <script>
 import songsdb from "@/songsdb.json";
+import draggable from "vuedraggable";
 
 export default {
+  components: {
+    draggable
+  },
   name: "SongList",
   data() {
     return {
       songs: [],
       selections: [],
-      toDisplay: []
+      toDisplay: [],
+      slideLink: ""
     };
   },
   methods: {
     addSelection(selected) {
-      this.selections.push(selected);
+      this.selections.push(selected)
+      this.updateLink()
     },
     clearAll() {
-      this.selections = [] 
+      this.selections = [];
+      this.slideLink = "";
+    },
+    updateLink() {
+      this.slideLink =
+        "/#/slides/" +
+        this.selections
+          .map(val => {
+            return val.indexId;
+          })
+          .join(",");
     }
   },
   computed: {},
   created() {
-    this.songs = songsdb.songs
+    this.songs = songsdb.songs;
     this.songs.sort((a, b) => {
       if (a.title < b.title) {
         return -1;
@@ -57,23 +84,13 @@ export default {
         return 1;
       }
       return 0;
-    })
+    });
   }
 };
 </script>
 
 <style>
-th {
-  padding: 20px 0px;
-  font-size: 30px;
-}
-.column {
-  float: left;
-  width: 50%;
-}
-
-li {
-  list-style: none;
-  padding: 15px 0px;
+.button-footer {
+  padding: 30px 0px;
 }
 </style>
