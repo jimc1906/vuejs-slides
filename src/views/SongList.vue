@@ -2,7 +2,6 @@
   <div style="padding-top: 30px" class="container-fluid">
     <div class="row">
       <div class="col-sm">
-        <h3>Available Songs</h3>
         <div class="form-group">
           <input @keyup="filterSongs" v-model="titleFilter"
             class="form-control"
@@ -24,12 +23,12 @@
         </div>
       </div>
       <div class="col-sm">
-        <h3>Selections</h3>
         <draggable
           v-show="selections && selections.length > 0"
           v-model="selections"
           @end="updateLink"
           class="list-group border border-dark"
+          style="margin-top: 55px"
         >
           <li class="list-group-item" v-for="(selection, index) in selections" :key="index">
             <span style="float: left">
