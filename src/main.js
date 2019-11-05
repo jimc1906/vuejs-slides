@@ -5,10 +5,10 @@ import store from './store'
 import "bootstrap/dist/css/bootstrap.css"
 
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faUserSecret, faPlusCircle } from '@fortawesome/free-solid-svg-icons'
+import { faPlusCircle, faMinusCircle } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
-library.add(faUserSecret, faPlusCircle)
+library.add(faPlusCircle, faMinusCircle)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 

@@ -20,6 +20,9 @@
         <h3>Selections</h3>
         <draggable v-show="selections && selections.length > 0" v-model="selections" @end="updateLink" class="list-group border border-dark">
           <li class="list-group-item" v-for="(selection, index) in selections" :key="index">
+            <span style="float: left">
+              <font-awesome-icon icon="minus-circle" v-on:click="removeSelection(selection)" />
+            </span>
             {{ selection.title }}
             <span
               style="float: right"
@@ -58,6 +61,10 @@ export default {
   methods: {
     addSelection(selected) {
       this.selections.push(selected)
+      this.updateLink()
+    },
+    removeSelection(selected) {
+      this.selections.splice(this.selections.findIndex((elem)=>{ return selected.indexId === elem.indexId }), 1)
       this.updateLink()
     },
     clearAll() {

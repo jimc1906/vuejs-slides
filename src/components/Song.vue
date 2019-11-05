@@ -13,6 +13,7 @@
     </div>
 
     <Events
+      :filter="(event) => event.target.tagName !== 'BUTTON'"
       @keydown.arrow-up="previousSlide"
       @keydown.arrow-down="nextSlide"
       @keydown.arrow-left="previousSlide"
