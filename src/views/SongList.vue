@@ -3,6 +3,13 @@
     <div class="row">
       <div class="col-sm">
         <h3>Available Songs</h3>
+        <div class="form-group">
+          <input @keyup="filterSongs" v-model="titleFilter"
+            class="form-control"
+            id="filterTextfield"
+            placeholder="Filter song title..."
+          />
+        </div>
         <div class="list-group overflow-auto border border-dark" style="height: 450px">
           <li class="list-group-item" v-for="(avail, index) in songs" :key="index">
             <span style="float: left">
@@ -18,7 +25,12 @@
       </div>
       <div class="col-sm">
         <h3>Selections</h3>
-        <draggable v-show="selections && selections.length > 0" v-model="selections" @end="updateLink" class="list-group border border-dark">
+        <draggable
+          v-show="selections && selections.length > 0"
+          v-model="selections"
+          @end="updateLink"
+          class="list-group border border-dark"
+        >
           <li class="list-group-item" v-for="(selection, index) in selections" :key="index">
             <span style="float: left">
               <font-awesome-icon icon="minus-circle" v-on:click="removeSelection(selection)" />
@@ -55,17 +67,23 @@ export default {
       songs: [],
       selections: [],
       toDisplay: [],
-      slideLink: ""
+      slideLink: "",
+      titleFilter: ""
     };
   },
   methods: {
     addSelection(selected) {
-      this.selections.push(selected)
-      this.updateLink()
+      this.selections.push(selected);
+      this.updateLink();
     },
     removeSelection(selected) {
-      this.selections.splice(this.selections.findIndex((elem)=>{ return selected.indexId === elem.indexId }), 1)
-      this.updateLink()
+      this.selections.splice(
+        this.selections.findIndex(elem => {
+          return selected.indexId === elem.indexId;
+        }),
+        1
+      );
+      this.updateLink();
     },
     clearAll() {
       this.selections = [];
@@ -79,6 +97,13 @@ export default {
             return val.indexId;
           })
           .join(",");
+    },
+    filterSongs() {
+      if (this.titleFilter.length > 0) {
+        this.songs = this.songs.filter((val)=>{ return val.title.toLowerCase().indexOf(this.titleFilter.toLowerCase()) !== -1 })
+      } else {
+        this.songs = songsdb.songs
+      }
     }
   },
   computed: {},
