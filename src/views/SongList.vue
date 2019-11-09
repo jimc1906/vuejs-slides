@@ -15,10 +15,10 @@
               <font-awesome-icon icon="plus-circle" v-on:click="addSelection(avail)" />
             </span>
             {{ avail.title }}
-            <span
-              style="float: right"
-              class="badge badge-dark"
-            >{{ avail.indexId }}</span>
+            <span style="float: right">
+              <!-- <span style='margin-right: 25px' class="badge badge-dark">{{ avail.indexId }}</span> -->
+              <font-awesome-icon icon="arrow-circle-right" v-on:click="showSong(avail.indexId)" />
+            </span>
           </li>
         </div>
       </div>
@@ -35,10 +35,11 @@
               <font-awesome-icon icon="minus-circle" v-on:click="removeSelection(selection)" />
             </span>
             {{ selection.title }}
-            <span
+            <!-- <span
               style="float: right"
               class="badge badge-dark"
-            >{{ selection.indexId }}</span>
+            >            
+            {{ selection.indexId }}</span> -->
           </li>
         </draggable>
         <div class="button-footer">
@@ -103,6 +104,9 @@ export default {
       } else {
         this.songs = songsdb.songs
       }
+    },
+    showSong(indexId) {
+      this.$router.push(`slides/${indexId}`)
     }
   },
   computed: {},

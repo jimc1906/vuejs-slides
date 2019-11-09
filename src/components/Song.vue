@@ -7,8 +7,6 @@
     ></div>
     <div class="footer">
       <span style="float: left"><router-link to="/songlist"><button>Song List</button></router-link></span>
-<!--      <button v-show="showPrevious" v-on:click="previousSlide()">&lt;</button>
-      <button v-on:click="nextSlide()">&gt;</button> -->
       <span style="float: right"><button v-on:click="fullScreen()">Present</button></span>
     </div>
 
@@ -20,8 +18,6 @@
       @keydown.arrow-right="nextSlide"
       @mousedown.left="nextSlide"
     />
-          <!-- @mousedown.left="nextSlide" -->
-
   </div>
 </template>
 
