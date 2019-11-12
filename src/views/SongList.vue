@@ -1,5 +1,5 @@
 <template>
-  <div style="padding-top: 30px" class="container-fluid">
+  <div style="padding-top: 30px; height: 100%" class="container-fluid">
     <div class="row">
       <div class="col-sm">
         <div class="form-group">
@@ -9,7 +9,7 @@
             placeholder="Filter song title..."
           />
         </div>
-        <div class="list-group overflow-auto border border-dark" style="height: 450px">
+        <div class="list-group border border-dark" style='overflow: auto; margin: 0px'>
           <li class="list-group-item" v-for="(avail, index) in songs" :key="index">
             <span style="float: left">
               <font-awesome-icon icon="plus-circle" v-on:click="addSelection(avail)" />
@@ -23,6 +23,7 @@
         </div>
       </div>
       <div class="col-sm">
+        <div class='selections'>
         <draggable
           v-show="selections && selections.length > 0"
           v-model="selections"
@@ -47,6 +48,7 @@
         </div>
         <div v-show="slideLink.length > 0">
           <a :href="slideLink">Navigate to Slides</a>
+        </div>
         </div>
       </div>
     </div>
@@ -100,7 +102,8 @@ export default {
     },
     filterSongs() {
       if (this.titleFilter.length > 0) {
-        this.songs = this.songs.filter((val)=>{ return val.title.toLowerCase().indexOf(this.titleFilter.toLowerCase()) !== -1 })
+        this.songs = songsdb.songs
+        this.songs = this.songs.filter((val)=>{ return val.title.toLowerCase().indexOf(this.titleFilter.trim().toLowerCase()) !== -1 })
       } else {
         this.songs = songsdb.songs
       }
@@ -120,6 +123,9 @@ export default {
       }
       return 0;
     });
+  },
+  mounted() {
+    document.body.classList.add('songlist')
   }
 };
 </script>
@@ -127,5 +133,15 @@ export default {
 <style>
 .button-footer {
   padding: 30px 0px;
+}
+
+body.songlist {
+  background-color: black
+}
+
+.selections {
+  position: fixed;
+  width: 45%;
+  top: 30px
 }
 </style>

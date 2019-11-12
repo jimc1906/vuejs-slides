@@ -7,7 +7,7 @@
     ></div>
     <div class="footer">
       <span style="float: left"><router-link to="/songlist"><button>Song List</button></router-link></span>
-      <span style="float: right"><button v-on:click="fullScreen()">Present</button></span>
+      <span class='hideInFullScreen' style="float: right"><button v-on:click="fullScreen()">Present</button></span>
     </div>
 
     <Events
@@ -99,7 +99,11 @@ export default {
     }
 
     this.currentSong = this.songs[this.currentSongIndex];
+  },
+  mounted() {
+    document.body.classList = []
   }
+
 };
 </script>
 
@@ -116,6 +120,32 @@ div {
 .lyric {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 48px;
+}
+
+:-webkit-full-screen .lyric {
+  font-size: 64px;
+}
+:-moz-full-screen .lyric {
+  font-size: 64px;
+}
+:-ms-fullscreen .lyric {
+  font-size: 64px;
+}
+:fullscreen .lyric {
+  font-size: 64px;
+}
+
+:-webkit-full-screen .hideInFullScreen {
+  display: none
+}
+:-moz-full-screen .hideInFullScreen {
+  display: none
+}
+:-ms-fullscreen .hideInFullScreen {
+  display: none;
+}
+:fullscreen .hideInFullScreen {
+  display: none
 }
 
 .top-margin {
