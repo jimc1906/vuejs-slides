@@ -213,7 +213,8 @@
                 "Till on that cross as Jesus died,<p/>The wrath of God was satisfied<p/>For every sin on Him was laid;<p/>Here in the death of Christ I live.",
                 "There in the ground His body lay<p/>Light of the world by darkness slain;<p/>Then bursting forth in glorious day<p/>Up from the grave He rose again!",
                 "And as He stands in victory<p/>Sin’s curse has lost its grip on me,<p/>For I am His and He is mine<p/>Bought with the precious blood of Christ.",
-                "No guilt in life, no fear in death,<p/>This is the power of Christ in me;<p/>From life’s first cry to final breath,<p/>Jesus commands my destiny."
+                "No guilt in life, no fear in death,<p/>This is the power of Christ in me;<p/>From life’s first cry to final breath,<p/>Jesus commands my destiny.",
+                "No power of hell, no scheme of man,<p/>Can ever pluck me from his hand;<p/>Till He returns or calls me home,<p/>Here in the power of Christ I'll stand.<p/>Here in the power of Christ I'll stand."
             ]
         },
         {
@@ -297,16 +298,14 @@
             "indexId": 23,
             "title": "Jesus is the Rock",
             "lyricParts": [
-                "Jesus is the Rock <p/>and he rolls my blues away",
-                "(3 times)",
+                "Jesus is the Rock <p/>and he rolls my blues away<p/>(Bop, shoo-bop, shoo-bop, whoo!)<p/>(3 times)",
                 "When you’re out on the street <p/>and you’re feeling down and low;<p/>When you’re out on the street<p/>and there’s no place left to go",
                 "When you’re out on the street…<p/>Well, Jesus gonna save your soul.",
-                "Jesus is the Rock <p/>and he rolls my blues away",
-                "(3 times)",
+                "Jesus is the Rock <p/>and he rolls my blues away<p/>(3 times)",
                 "When you wake up in the morning <p/>and the sky ain’t bright and blue;<p/>When you wake up in the morning <p/>and the big world’s after you;",
                 "When you wake up in the morning...<p/>Well, Jesus gonna pull you through.",
-                "Jesus is the Rock <p/>and he rolls my blues away",
-                "(2 times)"
+                "Jesus is the Rock <p/>and he rolls my blues away<p/>(2 times)",
+                "Jesus is the Rock and he rolls my blues...<p/>Jesus is the Rock and he rolls my blues...<p/>Jesus is the Rock and he rolls my blues...<p/>A...waaaay!"
             ]
         },
         {
@@ -446,22 +445,24 @@
         },
         {
             "indexId": 34,
-            "title": "Away in a manger, no crib for a bed.",
+            "title": "Away in a Manger",
             "lyricParts": [
-                "The little Lord Jesus lay down his sweet head.<p/>The stars in the sky look down where he lay.<p/>The little Lord Jesus asleep on the hay.<p/>Away in a Manger"
+                "Away in a manger, no crib for a bed.<p/>The little Lord Jesus lay down his sweet head.<p/>The stars in the sky look down where he lay.<p/>The little Lord Jesus asleep on the hay.<p/>",
+                "Be near me, Lord Jesus, I ask Thee to stay<p/>Close by me forever, and love me, I pray<p/>Bless all the dear children in Thy tender care<p/>And fit us for Heaven to live with Thee there."
             ]
         },
         {
             "indexId": 35,
-            "title": "We Three Kings of Orient are; ",
+            "title": "We Three Kings",
             "lyricParts": [
-                "Bearing gifts we traverse afar;<p/>Field and fountain, moor and mountain; <p/>Following yonder star.<p/>We Three Kings",
-                "O, star of wonder, star of night; <p/>Star with royal beauty bright;<p/>Westward leading, still proceeding; Guide us to thy perfect light,",
+                "We Three Kings of Orient are;<p/>Bearing gifts we traverse afar;<p/>Field and fountain, moor and mountain; <p/>Following yonder star.",
+                "O, star of wonder, star of night; <p/>Star with royal beauty bright;<p/>Westward leading, still proceeding;<p/>Guide us to thy perfect light,",
                 "Born a King on Bethlehem’s plain; <p/>Gold I bring to crown Him again;<p/>King forever, ceasing never;<p/>Over us all to reign",
                 "Frankincense to offer have I;<p/>Incense owns a Deity nigh;<p/>Prayer and praising, all men raising; <p/>Worship Him, God on high.",
                 "Myrrh is mine, it’s bitter perfume; <p/>Breathes a life of gathering gloom;<p/>Sorrowing, sighing, bleeding, dying; <p/>Sealed in the stone-cold tomb.",
-                "O, star of wonder, star of night; <p/>Star with royal beauty bright;<p/>Westward leading, still proceeding; Guide us to thy perfect light,",
-                "Glorious now, behold Him arise;<p/>King and God, and Sacrifice!<p/>Alleluia, Alleluia; earth to heav’n replies;"
+                "O, star of wonder, star of night; <p/>Star with royal beauty bright;<p/>Westward leading, still proceeding;<p>Guide us to thy perfect light,",
+                "Glorious now, behold Him arise;<p/>King and God, and Sacrifice!<p/>Alleluia, Alleluia; earth to heav’n replies;",
+                "O, star of wonder, star of night; <p/>Star with royal beauty bright;<p/>Westward leading, still proceeding;<p/>Guide us to thy perfect light,<p/>Westward leading, still proceeding;<p/>Guide us to thy perfect light."
             ]
         },
         {
@@ -521,23 +522,24 @@
             "indexId": 40,
             "title": "Joy to the World",
             "lyricParts": [
-                "Joy to the World, the Lord has come!<p/>Let earth receive her King;<p/>Let every heart prepare Him room,<p/>Joy to the World",
+                "Joy to the World, the Lord has come!<p/>Let earth receive her King;<p/>Let every heart prepare Him room,",
                 "And Heaven and nature sing,<p/>And Heaven and nature sing,<p/>And Heaven, and Heaven and nature sing.",
-                  "Joy to the World, the Savior reigns!<p/>Let men their songs employ;<p/>While fields and floods, rocks, hills, and plains",
+                "Joy to the World, the Savior reigns!<p/>Let men their songs employ;<p/>While fields and floods, rocks, hills, and plains",
                 "Repeat the sounding joy,<p/>Repeat the sounding joy,<p/>Repeat, repeat the sounding joy",
-                "He rules the world with truth and grace,<p/>And makes the nations prove<p/>The glories of His righteousness,"
+                "He rules the world with truth and grace,<p/>And makes the nations prove<p/>The glories of His righteousness,",
+                "And wonders of his love,<p/>And wonders of his love,<p/>And wonders, wonders of his love"
             ]
         },
         {
             "indexId": 41,
-            "title": "I've got peace like a river,",
+            "title": "Peace Like a River",
             "lyricParts": [
-                "I've got peace like a river,<p/>I've got peace like a river in my soul.<p/>Peace Like a River",
                 "I've got peace like a river,<p/>I've got peace like a river,<p/>I've got peace like a river in my soul.",
+                "<p/><p/>I've got peace like a river,<p/>I've got peace like a river,<p/>I've got peace like a river in my soul.",
                 "I've got love like an ocean,<p/>I've got love like an ocean,<p/>I've got love like an ocean in my soul.",
-                "I've got love like an ocean,<p/>I've got love like an ocean,<p/>I've got love like an ocean in my soul.",
+                "<p/><p/>I've got love like an ocean,<p/>I've got love like an ocean,<p/>I've got love like an ocean in my soul.",
                 "I've got joy like a fountain,<p/>I've got joy like a fountain,<p/>I've got joy like a fountain in my soul.",
-                "I've got joy like a fountain,<p/>I've got joy like a fountain,<p/>I've got joy like a fountain in my soul.",
+                "<p/><p/>I've got joy like a fountain,<p/>I've got joy like a fountain,<p/>I've got joy like a fountain in my soul.",
                 "I've got peace, love, joy like a fountain,<p/>I've got peace, love, joy like a fountain,<p/>I've got peace, love, joy like a fountain in my soul."
             ]
         },
@@ -558,7 +560,7 @@
         },
         {
             "indexId": 43,
-            "title": "Eerlasting Love",
+            "title": "Everlasting Love",
             "lyricParts": [
                 "Your everlasting love is higher,<p/>higher, higher than the sky<p/>Your everlasting love is higher,<p/>higher, higher than the sky",
                 "Higher than the sky<p/>All the wonders of<p/>Your everlasting love<p/>are higher than the sky",
@@ -620,28 +622,27 @@
         },
         {
             "indexId": 47,
-            "title": "Go tell it on the mountain",
+            "title": "Go Tell it on the Mountain",
             "lyricParts": [
-                "Over the hills and everywhere<p/>Go tell it on the mountain<p/>That Jesus Christ is born<p/>Go Tell it on the Mountain",
+                "Go tell it on the mountain<p/>Over the hills and everywhere<p/>Go tell it on the mountain<p/>That Jesus Christ is born",
                 "While shepherds all were watching<p/>Over silent flocks at night<p/>Behold throughout the heavens<p/>There shone a holy light",
                 "Go tell it on the mountain<p/>Over the hills and everywhere<p/>Go tell it on the mountain<p/>That Jesus Christ is born",
                 "The shepherds feared and trembled<p/>When Lo! Above the earth<p/>Rang out the angel chorus<p/>That hailed our Saviour’s birth",
                 "Go tell it on the mountain<p/>Over the hills and everywhere<p/>Go tell it on the mountain<p/>That Jesus Christ is born",
-                "Down in a lowly manger<p/>Our humble Christ was born<p/>And God sent us salvation,<p/>That blessed Christmas morn"
+                "Down in a lowly manger<p/>Our humble Christ was born<p/>And God sent us salvation,<p/>That blessed Christmas morn",
+                "Go tell it on the mountain<p/>Over the hills and everywhere<p/>Go tell it on the mountain<p/>That Jesus Christ is born"
             ]
         },
         {
             "indexId": 48,
-            "title": "Angels we have heard on high",
+            "title": "Angels We Have Heard on High",
             "lyricParts": [
-                "Sweetly singing o’er the plains<p/>And the mountains in reply,<p/>Echoing their joyous strains;<p/>Angels We Have Heard on High",
+                "Angels we have heard on high<p/>Sweetly singing o’er the plains<p/>And the mountains in reply,<p/>Echoing their joyous strains;<p/>",
                 "Glor --  -- -- -- --  ria!<p/>In excelsis de-o<p/>Glor --  -- -- -- --  ria!<p/>In excelsis de-o",
-                "",
                 "Shepherds why this jubilee?<p/>Why your joyous strains prolong?<p/>What the gladsome tidings be;<p/>Which inspire your heavenly song?",
-                "Glor --  -- -- -- --  ria!<p/>In excelsis de-o<p/>Glor --  -- -- -- --  ria!<p/>In excelsis de-o",
-                "",
+                "Glor --  -- -- -- --  ria!<p/>In excelsis de-o<p/>Glor --  -- -- -- --  ria!<p/>In excelsis de-o<p/>Glor --  -- -- -- --  ria!",
                 "Come to Bethlehem and see<p/>Him whose birth the angels sing;<p/>Come adore on bended knee,<p/>Christ the Lord the newborn King!",
-                "Glor --  -- -- -- --  ria!<p/>In excelsis de-o<p/>Glor --  -- -- -- --  ria!<p/>In excelsis de-o"
+                "Glor --  -- -- -- --  ria!<p/>In excelsis de-o<p/>Glor --  -- -- -- --  ria!<p/>In excelsis de-o<p/>Glor --  -- -- -- --  ria!"
             ]
         },
         {
@@ -657,13 +658,14 @@
         },
         {
             "indexId": 50,
-            "title": "O come, all ye faithful, joyful and triumphant;",
+            "title": "O Come, All Ye Faithful",
             "lyricParts": [
-                "O come, ye, O come, ye, to Bethlehem.<p/>Come and behold Him, born the King of angels;<p/>O Come, All Ye Faithful",
+                "O come, all ye faithful, joyful and triumphant;<p/>O come, ye, O come, ye, to Bethlehem.<p/>Come and behold Him, born the King of angels;",
                 "O come, let us adore Him;<p/>O come, let us adore Him;<p/>O come, let us adore Him;<p/>Christ the Lord.",
                 "Sing, choir of angels, sing in exultation;<p/>O sing, all ye citizens of heaven above!<p/>Glory to God, all glory in the highest;",
                 "O come, let us adore Him;<p/>O come, let us adore Him;<p/>O come, let us adore Him;<p/>Christ the Lord.",
-                "Yea, Lord, we greet Thee, born this holy morning;<p/>Jesus, to thee be all glory giv’n!<p/>Word of the Father, now in flesh appearing;"
+                "Yea, Lord, we greet Thee, born this holy morning;<p/>Jesus, to thee be all glory giv’n!<p/>Word of the Father, now in flesh appearing;",
+                "O come, let us adore Him;<p/>O come, let us adore Him;<p/>O come, let us adore Him;<p/>Christ the Lord."
             ]
         },
         {
@@ -714,19 +716,20 @@
                 "The fatherless they find their rest<p/>At the sound of your great name<p/>Sick are healed and the dead are raised<p/>At the sound of your great name",
                 "Jesus worthy is the Lamb<p/>That was slain for us,<p/>Son of God and man you are high and lifted up<p/>And all the world will praise your great name",
                 "Redeemer, My healer, Lord Almighty<p/>My Savior, Defender, You are my King",
-                "Redeemer, My healer, Lord Almighty<p/>My Savior, Defender, You are my King",
+                "<p/><p/>Redeemer, My healer, Lord Almighty<p/>My Savior, Defender, You are my King",
                 "Jesus worthy is the Lamb<p/>That was slain for us,<p/>Son of God and man you are high and lifted up<p/>And all the world will praise your great name"
             ]
         },
         {
             "indexId": 55,
-            "title": "Worthy is the Lamb Who was slain",
+            "title": "Revelation Song",
             "lyricParts": [
-                "Holy holy is He<p/>Sing a new song to Him Who sits on<p/>Heaven’s mercy seat<p/>Revelation Song",
+                "Worthy is the Lamb who was slain<p/>Holy holy is He<p/>Sing a new song to Him Who sits on<p/>Heaven’s mercy seat<p/>",
                 "Holy holy holy is the Lord God Almighty<p/>Who was and is and is to come<p/>With all creation I sing praise to the King of kings<p/>You are my ev’rything and I will adore You",
                 "Clothed in rainbows of living color<p/>Flashes of lightning rolls of thunder<p/>Blessing and honor strength <p/>and glory and power be<p/>To you the only wise King",
                 "Holy holy holy is the Lord God Almighty<p/>Who was and is and is to come<p/>With all creation I sing praise to the King of kings<p/>You are my ev’rything and I will adore You",
-                "Filled with wonder awestruck wonder<p/>At the mention of Your name<p/>Jesus Your name is power<p/>Breath and living water<p/>Such a marv’lous mystery - yeah"
+                "Filled with wonder awestruck wonder<p/>At the mention of Your name<p/>Jesus Your name is power<p/>Breath and living water<p/>Such a marv’lous mystery - yeah",
+                "Holy holy holy is the Lord God Almighty<p/>Who was and is and is to come<p/>With all creation I sing praise to the King of kings<p/>You are my ev’rything and I will adore You"
             ]
         },
         {
@@ -756,10 +759,11 @@
         },
         {
             "indexId": 58,
-            "title": "Silent night, Holy Night,",
+            "title": "Silent Night",
             "lyricParts": [
-                "All is calm, All is bright.<p/>Round yon virgin, Mother and child.<p/>Holy Infant so tender and mild,<p/>Sleep in heavenly peace,<p/>Sleep in Heavenly peace.<p/>Silent Night",
-                "Silent night, Holy Night,<p/>Shepherds quake at the sight.<p/>Glories stream from Heaven afar,<p/>Heavenly hosts sing alleluia.<p/>Christ the Savior is born;<p/>Christ the Savior is born."
+                "Silent night, Holy Night,<p/>All is calm, All is bright.<p/>Round yon virgin, Mother and child.<p/>Holy Infant so tender and mild,<p/>Sleep in heavenly peace,<p/>Sleep in Heavenly peace.",
+                "Silent night, Holy Night,<p/>Shepherds quake at the sight.<p/>Glories stream from Heaven afar,<p/>Heavenly hosts sing alleluia.<p/>Christ the Savior is born;<p/>Christ the Savior is born.",
+                "Silent night, Holy Night,<p/>Son of God love’s pure light,<p/>Radiant beams from thy holy face,<p/>With the dawn of redeeming grace,<p/>Jesus Lord at thy birth,<p/>Jesus Lord at thy birth."
             ]
         },
         {
@@ -847,6 +851,16 @@
                 "Hallelujah, praise the One who set me free<p/>Hallelujah, death has lost its grip on me<p/>You have broken every chain, <p/>there's salvation in Your name<p/>Jesus Christ, my living hope<p/>",
                 "<p style='padding-top: 25px'/>Hallelujah, praise the One who set me free<p/>Hallelujah, death has lost its grip on me<p/>You have broken every chain, <p/>there's salvation in Your name<p/>Jesus Christ, my living hope<p/>",
                 "Jesus Christ, my living hope<p/>Oh God, You are my living hope<p/>"
+            ]
+        },
+        {
+            "indexId": 66,
+            "title": "What Child is This?",
+            "lyricParts": [
+                "What child is this, who, laid to rest<p/>On Mary's lap, is sleeping?<p/>Whom angels greet with anthems sweet;<p/>While shepherds watch are keeping?",
+                "This, this is Christ the King,<p/>Whom shepherds guard and angels sing.<p/>Haste, haste to bring him laud;<p/>The babe, the Son of Mary",
+                "So bring Him incense, gold, and myrrh;<p/>Come, peasant, King to own Him<p/>The King of Kings salvation brings;<p/>Let loving hearts enthrone Him.",
+                "This, this is Christ the King,<p/>Whom shepherds guard and angels sing.<p/>Haste, haste to bring him laud;<p/>The babe, the Son of Mary"
             ]
         }
 
