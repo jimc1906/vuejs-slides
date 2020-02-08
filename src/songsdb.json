@@ -102,20 +102,19 @@
         },
         {
             "indexId": 9,
-            "title": "Love the Lord Your God ",
+            "title": "Love the Lord",
             "lyricParts": [
-                "with all your heart, with all your soul<p/>with all your mind, with all your strength<p/>Love the Lord",
-                "Love the Lord Your God <p/>with all your heart, <p/>with all your soul<p/>with all your mind, <p/>with all your strength",
+                "Love the Lord Your God<p/>with all your heart, <p/>with all your soul<p/>with all your mind, with all your strength",
+                "<p style='padding-top: 20px'>Love the Lord Your God<p/>with all your heart,</p><p/>with all your soul<p/>with all your mind, <p/>with all your strength",
                 "With all your heart, <p/>with all your soul<p/>With all your mind, <p/>with all your strength",
-                "",
                 "Love the Lord Your God <p/>with all your heart,<p/>with all your soul<p/>With all your mind,<p/>with all your strength",
-                "I will serve you, Lord <p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
                 "I will serve you, Lord<p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
+                "<p style='padding-top: 20px'>I will serve you, Lord<p/>with all my heart,<p/><p/>with all my soul<p/>with all my mind, <p/>with all my strength",
                 "With all my heart, <p/>with all my soul<p/>With all my mind, <p/>with all my strength",
-                "",
                 "I will serve you, Lord<p/>with all my heart,<p/>with all my soul<p/>With all my mind,<p/>with all my strength",
                 "With all my heart, with all my soul<p/>With all my mind, with all my strength<p/>With all my heart, with all my soul<p/>With all my mind, with all my strength",
-                "I will love you, Lord <p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength"
+                "I will love you, Lord <p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
+                "<p style='padding-top: 20px'>I will love you, Lord<p/><p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength"
             ]
         },
         {
@@ -219,16 +218,15 @@
         },
         {
             "indexId": 18,
-            "title": "I hear the Savior say,",
+            "title": "Jesus Paid It All",
             "lyricParts": [
-                "“Thy strength indeed is small;<p/>Child of weakness, watch and pray,<p/>Find in Me thine all in all.”<p/>Jesus Paid It All",
+                "I hear the Savior say, \"Thy strength indeed is small;<p/>Child of weakness, watch and pray,<p/>Find in Me thine all in all.\"",
                 "Jesus paid it all, All to Him I owe;<p/>Sin had left a crimson stain,<p/>He washed it white as snow.",
-                "Lord, now indeed I find Thy pow’r,<p/>and Thine alone,<p/>Can change the leper’s spots<p/>And melt the heart of stone.",
+                "Lord, now indeed I find Thy pow’r, and Thine alone,<p/>Can change the leper’s spots<p/>And melt the heart of stone.",
                 "Jesus paid it all, All to Him I owe;<p/>Sin had left a crimson stain,<p/>He washed it white as snow.",
                 "And when before the throne,<p/>I stand in Him complete,<p/>I’ll lay my trophies down,<p/>All down at Jesus’ feet.",
                 "O praise the One who paid my debt<p/>And raised this life up from the dead<p/>O praise the One who paid my debt<p/>And raised this life up from the dead",
-                "Jesus paid it all, All to Him I owe;<p/>Sin had left a crimson stain,<p/>He washed it white as snow.",
-                "Sin had left a crimson stain,<p/>He washed it white as snow."
+                "Jesus paid it all, All to Him I owe;<p/>Sin had left a crimson stain,<p/>He washed it white as snow.<p style='padding-top: 30px'>Sin had left a crimson stain,<p/>He washed it white as snow.</p>"
             ]
         },
         {
@@ -576,17 +574,13 @@
             "indexId": 44,
             "title": "10,000 Reasons",
             "lyricParts": [
-                "Bless the Lord, O my soul,<p/>O my soul,<p/>Worship His holy name.<p/>Sing like never before,<p/>O my soul.<p/>I’ll worship Your holy name.",
-                "The sun comes up, <p/>it’s a new day dawning;<p/>It’s time to sing Your song again.",
-                "",
-                "Whatever may pass, <p/>and whatever lies before me,<p/>Let me be singing<p/> when the evening comes.",
-                "Bless the Lord, O my soul,<p/>O my soul,<p/>Worship His holy name.<p/>Sing like never before,<p/>O my soul.<p/>I’ll worship Your holy name.",
-                "You’re rich in love, <p/>and You’re slow to anger.<p/>Your name is great,<p/>and Your heart is kind.",
-                "For all Your goodness, <p/>I will keep on singing;<p/>Ten thousand reasons<p/>for my heart to find.",
-                "Bless the Lord, O my soul,<p/>O my soul,<p/>Worship His holy name.<p/>Sing like never before,<p/>O my soul.<p/>I’ll worship Your holy name.",
-                "And on that day<p/>when my strength is failing,<p/>The end draws near,<p/>and my time has come;",
-                "Still my soul <p/>will sing Your praise unending;<p/>Ten thousand years <p/>and then forevermore!",
-                "Bless the Lord, O my soul,<p/>O my soul,<p/>Worship His holy name.<p/>Sing like never before,<p/>O my soul."
+                "Bless the Lord, O my soul, O my soul,<p/>Worship His holy name.<p/>Sing like never before, O my soul.<p/>I’ll worship Your holy name.",
+                "The sun comes up, it’s a new day dawning;<p/>It’s time to sing Your song again.<p/>Whatever may pass, and whatever lies before me,<p/>Let me be singing when the evening comes.",
+                "Bless the Lord, O my soul, O my soul,<p/>Worship His holy name.<p/>Sing like never before, O my soul.<p/>I’ll worship Your holy name.",
+                "You’re rich in love, and You’re slow to anger.<p/>Your name is great, and Your heart is kind.<p/>For all Your goodness, I will keep on singing;<p/>Ten thousand reasons for my heart to find.",
+                "Bless the Lord, O my soul, O my soul,<p/>Worship His holy name.<p/>Sing like never before, O my soul.<p/>I’ll worship Your holy name.",
+                "And on that day when my strength is failing,<p/>The end draws near, and my time has come;<p/>Still my soul will sing Your praise unending;<p/>Ten thousand years and then forevermore!",
+                "Bless the Lord, O my soul, O my soul,<p/>Worship His holy name.<p/>Sing like never before, O my soul.<p/>I’ll worship Your holy name.<p/>Yes, I'll worship Your holy name."
             ]
         },
         {
@@ -861,6 +855,17 @@
                 "This, this is Christ the King,<p/>Whom shepherds guard and angels sing.<p/>Haste, haste to bring him laud;<p/>The babe, the Son of Mary",
                 "So bring Him incense, gold, and myrrh;<p/>Come, peasant, King to own Him<p/>The King of Kings salvation brings;<p/>Let loving hearts enthrone Him.",
                 "This, this is Christ the King,<p/>Whom shepherds guard and angels sing.<p/>Haste, haste to bring him laud;<p/>The babe, the Son of Mary"
+            ]
+        },
+        {
+            "indexId": 67,
+            "title": "Be Thou My Vision",
+            "lyricParts": [
+                "Be Thou my vision O Lord of my heart<p/>Naught be all else to me save that Thou art<p/>Thou my best thought by day or by night<p/>Waking or sleeping Thy presence my light",
+                "Be Thou my wisdom be Thou my true Word<p/>I ever with Thee and Thou with me Lord<p/>Thou my great Father I thy true son<p/>Thou in me dwelling and I with Thee one",
+                "Be Thou my shield and my sword for the fight<p/>Be Thou my dignity be Thou my might<p/>Thou my soul's shelter and Thou my high tow'r<p>Raise Thou me heav'nward O Pow'r of my pow'r",
+                "Riches I heed not nor mans's empty praise<p/>Thou mine inheritance now and always<p/>Thou and Thou only be first in my heart<p/>High King of heaven my treasure Thou art",
+                "High King of heaven when vict'ry is won<p/>May I reach heaven's joys O bright heav'n's Sun<p/>Heart of my own heart whatever befall<p/>Still be my vision O Ruler of all"
             ]
         }
 
