@@ -104,14 +104,14 @@
             "indexId": 9,
             "title": "Love the Lord",
             "lyricParts": [
-                "Love the Lord Your God<p/>with all your heart, <p/>with all your soul<p/>with all your mind, with all your strength",
+                "Love the Lord Your God<p/>with all your heart, <p/>with all your soul<p/>with all your mind,<p/>with all your strength",
                 "<p style='padding-top: 20px'>Love the Lord Your God<p/>with all your heart,</p><p/>with all your soul<p/>with all your mind, <p/>with all your strength",
-                "With all your heart, <p/>with all your soul<p/>With all your mind, <p/>with all your strength",
-                "Love the Lord Your God <p/>with all your heart,<p/>with all your soul<p/>With all your mind,<p/>with all your strength",
+                "With all your heart, <p/>with all your soul<p/>with all your mind, <p/>with all your strength",
+                "Love the Lord Your God <p/>with all your heart,<p/>with all your soul<p/>with all your mind,<p/>with all your strength",
                 "I will serve you, Lord<p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
                 "<p style='padding-top: 20px'>I will serve you, Lord<p/>with all my heart,<p/><p/>with all my soul<p/>with all my mind, <p/>with all my strength",
-                "With all my heart, <p/>with all my soul<p/>With all my mind, <p/>with all my strength",
-                "I will serve you, Lord<p/>with all my heart,<p/>with all my soul<p/>With all my mind,<p/>with all my strength",
+                "With all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
+                "I will serve you, Lord<p/>with all my heart,<p/>with all my soul<p/>with all my mind,<p/>with all my strength",
                 "With all my heart, with all my soul<p/>With all my mind, with all my strength<p/>With all my heart, with all my soul<p/>With all my mind, with all my strength",
                 "I will love you, Lord <p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
                 "<p style='padding-top: 20px'>I will love you, Lord<p/><p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength"
@@ -263,7 +263,8 @@
                 "Waves of mercy, waves of grace<p/>Everywhere I look, I see your face<p/>Your love has captured me<p/>Oh my God this love, how can it be?",
                 "La, La, La, La, La, La…",
                 "Every move I make, I make in You; <p/>You make me move Jesus.<p/>Every breath I take, I take in You.<p/>Every step I take I take in You; <p/>You are my way Jesus.<p/>Every breath I take I breathe in You.",
-                "Waves of mercy, waves of grace<p/>Everywhere I look, I see your face<p/>Your love has captured me<p/>Oh my God this love, how can it be?"
+                "Waves of mercy, waves of grace<p/>Everywhere I look, I see your face<p/>Your love has captured me<p/>Oh my God this love, how can it be?",
+                "La, La, La, La, La, La…"
             ]
         },
         {
@@ -372,9 +373,9 @@
         },
         {
             "indexId": 29,
-            "title": "Lord I come, I confess",
+            "title": "Lord I Need You",
             "lyricParts": [
-                "Bowing here I find my rest<p/>Without You, I fall apart<p/>You’re the one that guides my heart<p/>Lord I Need You",
+                "Lord I come, I confess<p/>Bowing here I find my rest<p/>Without You, I fall apart<p/>You’re the one that guides my heart<p/>",
                 "Lord, I need You, oh I need You<p/>Every hour I need You<p/>My one defense, my righteousness<p/>Oh God, how I need You",
                 "Where sin runs deep, <p/>Your grace is more<p/>Where grace is found <p/>is where You are",
                 "And where You are, Lord<p/>I am free<p/>Holiness is Christ in me",
@@ -386,15 +387,16 @@
         },
         {
             "indexId": 30,
-            "title": "What can wash away my sin",
+            "title": "Nothing But the Blood",
             "lyricParts": [
-                "Nothing but the blood of Jesus;<p/>What can make me whole again<p/>Nothing but the blood of Jesus<p/>Nothing But the Blood",
+                "What can wash away my sin<p/>Nothing but the blood of Jesus;<p/>What can make me whole again<p/>Nothing but the blood of Jesus",
                 "O precious is the flow<p/>that makes me white as snow;<p/>No other fount I know, <p/>nothing but the blood of Jesus.",
                 "For my pardon this I see -<p/>Nothing but the blood of Jesus<p/>for my cleansing this my plea -<p/>Nothing but the blood of Jesus",
                 "O precious is the flow<p/>that makes me white as snow;<p/>No other fount I know, <p/>nothing but the blood of Jesus.",
                 "Nothing can for sin atone -<p/>Nothing but the blood of Jesus;<p/>naught of good that I have done -<p/>nothing but the blood of Jesus.",
                 "O precious is the flow<p/>that makes me white as snow;<p/>No other fount I know, <p/>nothing but the blood of Jesus.",
-                "This is all my hope and peace -<p/>Nothing but the blood of Jesus;<p/>this is all my righteousness -<p/>nothing but the blood of Jesus."
+                "This is all my hope and peace -<p/>Nothing but the blood of Jesus;<p/>this is all my righteousness -<p/>nothing but the blood of Jesus.",
+                "O precious is the flow<p/>that makes me white as snow;<p/>No other fount I know, <p/>nothing but the blood of Jesus."
             ]
         },
         {
@@ -643,11 +645,12 @@
             "indexId": 49,
             "title": "His Mercy is More",
             "lyricParts": [
-                "What love could remember <p/>no wrongs we have done<p/>Omniscient all knowing He counts not their sum<p/>Thrown into a sea without bottom or shore<p/>Out sins they are many His mercy is more",
+                "What love could remember <p/>No wrongs we have done<p/>Omniscient all knowing He counts not their sum<p/>Thrown into a sea without bottom or shore<p/>Our sins they are many His mercy is more",
                 "What patience would wait as we constantly roam<p/>What Father so tender is calling us home<p/>He welcomes the weakest, the vilest, the poor<p/>Our sins they are many His mercy is more",
+                "Praise the Lord<p/>His mercy is more<p/>Stronger than darkness new every morn<p/>Our sins they are many His mercy is more",
                 "What riches of kindness He lavished on us<p/>His blood was the payment His life was the cost<p/>We stood ‘neath a debt we could never afford<p/>Our sins they are many His mercy is more",
                 "Praise the Lord<p/>His mercy is more<p/>Stronger than darkness new every morn<p/>Our sins they are many His mercy is more",
-                "Praise the Lord<p/>His mercy is more<p/>Stronger than darkness new every morn<p/>Our sins they are many His mercy is more"
+                "<p style='margin-top: 3em'>Praise the Lord</p><p/>His mercy is more<p/>Stronger than darkness new every morn<p/>Our sins they are many His mercy is more"
             ]
         },
         {
@@ -696,7 +699,8 @@
                 "He’ll not let my soul be lost<p/>His Promises shall last<p/>Bought by Him at such a cost<p/>He will hold me fast",
                 "He will hold me fast<p/>He will hold me fast<p/>For my Savior loves me so<p/>He will hold me fast",
                 "For my life He bled and died<p/>Christ will hold me fast<p/>Justice has been satisfied<p/>He will hold me fast",
-                "Raised with Him to endless life<p/>He will hold me fast<p/>Till our faith is turned to sight<p/>When He comes at last"
+                "Raised with Him to endless life<p/>He will hold me fast<p/>Till our faith is turned to sight<p/>When He comes at last",
+                "He will hold me fast<p/>He will hold me fast<p/>For my Savior loves me so<p/>He will hold me fast"
             ]
         },
         {
@@ -762,9 +766,9 @@
         },
         {
             "indexId": 59,
-            "title": "I once was lost in darkest night",
+            "title": "All I Have Is Christ",
             "lyricParts": [
-                "Yet thought I knew the way<p/>The sin that promised joy and life<p/>Had led me to the grave<p/>All I Have is Christ",
+                "I once was lost in darkest night<p/>Yet thought I knew the way<p/>The sin that promised joy and life<p/>Had led me to the grave",
                 "I had no hope that You would own<p/>A rebel to Your will<p/>And if you had not loved me first<p/>I would refuse You still",
                 "But as I ran my hell-bound race<p/>Indifferent to the cost<p/>You looked upon my helpless state<p/>And led me to the cross",
                 "And I beheld God’s love displayed<p/>You suffered in my place<p/>You bore the wrath reserved for me<p/>Now all I know is grace",
@@ -863,7 +867,6 @@
             "lyricParts": [
                 "Be Thou my vision O Lord of my heart<p/>Naught be all else to me save that Thou art<p/>Thou my best thought by day or by night<p/>Waking or sleeping Thy presence my light",
                 "Be Thou my wisdom be Thou my true Word<p/>I ever with Thee and Thou with me Lord<p/>Thou my great Father I thy true son<p/>Thou in me dwelling and I with Thee one",
-                "Be Thou my shield and my sword for the fight<p/>Be Thou my dignity be Thou my might<p/>Thou my soul's shelter and Thou my high tow'r<p>Raise Thou me heav'nward O Pow'r of my pow'r",
                 "Riches I heed not nor mans's empty praise<p/>Thou mine inheritance now and always<p/>Thou and Thou only be first in my heart<p/>High King of heaven my treasure Thou art",
                 "High King of heaven when vict'ry is won<p/>May I reach heaven's joys O bright heav'n's Sun<p/>Heart of my own heart whatever befall<p/>Still be my vision O Ruler of all"
             ]
