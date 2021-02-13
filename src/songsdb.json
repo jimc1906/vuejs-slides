@@ -367,8 +367,7 @@
                 "Here I raise my Ebenezer;<p/>Hither by Thy help I’m come;<p/>And I hope, by Thy good pleasure,<p/>Safely to arrive at home.",
                 "Jesus sought me when a stranger,<p/>Wandering from the fold of God;<p/>He, to rescue me from danger,<p/>Interposed His precious blood.",
                 "O to grace how great a debtor<p/>Daily I’m constrained to be!<p/>Let that grace now like a fetter,<p/>Bind my wandering heart to Thee.",
-                "",
-                "Prone to wander, Lord, I feel it<p/>Prone to leave the God I love;<p/>Here’s my heart, O take and seal it,<p/>Seal it for Thy courts above"
+                "Prone to wander, Lord, I feel it<p/>Prone to leave the God I love;<p/>Here’s my heart, O take and seal it,<p/>Seal it for Thy courts above<p style='padding-top: 30px'>Here’s my heart, O take and seal it,<p/>Seal it for Thy courts above"
             ]
         },
         {
@@ -700,7 +699,8 @@
                 "He will hold me fast<p/>He will hold me fast<p/>For my Savior loves me so<p/>He will hold me fast",
                 "For my life He bled and died<p/>Christ will hold me fast<p/>Justice has been satisfied<p/>He will hold me fast",
                 "Raised with Him to endless life<p/>He will hold me fast<p/>Till our faith is turned to sight<p/>When He comes at last",
-                "He will hold me fast<p/>He will hold me fast<p/>For my Savior loves me so<p/>He will hold me fast"
+                "He will hold me fast<p/>He will hold me fast<p/>For my Savior loves me so<p/>He will hold me fast",
+                "<p style='padding-top: 25px'/>He will hold me fast<p/>He will hold me fast<p/>For my Savior loves me so<p/>He will hold me fast"
             ]
         },
         {
@@ -870,7 +870,115 @@
                 "Riches I heed not nor mans's empty praise<p/>Thou mine inheritance now and always<p/>Thou and Thou only be first in my heart<p/>High King of heaven my treasure Thou art",
                 "High King of heaven when vict'ry is won<p/>May I reach heaven's joys O bright heav'n's Sun<p/>Heart of my own heart whatever befall<p/>Still be my vision O Ruler of all"
             ]
+        },
+        {
+            "indexId": 68,
+            "title": "God of the Ages",
+            "lyricParts": [
+                "He is the image of the invisible God<p/>The first born of creation<p/>He is the first the last<p/>The one who matters most",
+                "He is creator ruling sustainer of all<p/>For He holds it all together<p/>He is the word of God<p/>The hope for all the world",
+                "His name is lifted higher<p/>Jesus Your name is lifted higher",
+                "We bless You Lord<p/>God of the ages highest of all<p/>We magnify You<p/>Your name will be exalted exalted",
+                "He is creator ruling sustainer of all<p/>For He holds it all together<p/>He is the word of God<p/>The hope for all the world",
+                "His name is lifted higher<p/>Jesus Your name is lifted higher",
+                "We bless You Lord<p/>God of the ages highest of all<p/>We magnify You<p/>Your name will be exalted exalted",
+                "Who can compare<p/>Who can compare to You to You<p/>Who can compare<p/>Who can compare to You to You",
+                "We bless You Lord<p/>God of the ages highest of all<p/>We magnify You<p/>Your name will be exalted exalted",
+                "<p style='margin-top: 3em'/>We bless You Lord<p/>God of the ages highest of all<p/>We magnify You<p/>Your name will be exalted exalted",
+                "Exalted exalted"
+            ]
+        },
+        {
+            "indexId": 69,
+            "title": "The Lord Is My Salvation",
+            "lyricParts": [
+                "The grace of God has reached for me<p/>And pulled me from the raging sea<p/>And I am safe on this solid ground<p/>The Lord is my salvation",
+                "I will not fear when darkness falls<p/>His strength will help me scale these walls<p/>I'll see the dawn of the rising sun<p/>The Lord is my salvation",
+                "Who is like the Lord our God<p/>Strong to save faithful in love<p/>My debt is paid and the victory won<p/>The Lord is my salvation",
+                "In times of waiting times of need<p/>When I know loss when I am weak<p/>I know His grace will renew these days<p/>The Lord is my salvation",
+                "And when I reach the final day<p/>He will not leave me in the grave<p/>But I will rise He will call me home<p/>The Lord is my salvation",
+                "Who is like the Lord our God<p/>Strong to save faithful in love<p/>My debt is paid and the victory won<p/>The Lord is my salvation",
+                "Glory be to God the Father<p/>Glory be to God the Son<p/>Glory be to God the Spirit<p/>The Lord is our salvation",
+                "<p style='margin-top: 3em'/>Glory be to God the Father<p/>Glory be to God the Son<p/>Glory be to God the Spirit<p/>The Lord is our salvation",
+                "The Lord is our salvation<p/>The Lord is our salvation"
+            ]
+        },
+        {
+            "indexId": 70,
+            "title": "Behold Our God",
+            "lyricParts": [
+                "Who has held the oceans in His hands<p/>Who has numbered every grain of sand<p/>Kings and nations tremble at His voice<p/>All creation rises to rejoice",
+                "Behold our God seated on His throne<p/>Come let us adore Him<p/>Behold our King nothing can compare<p/>Come let us adore Him",
+                "Who has given counsel to the Lord<p/>Who can question any of His words<p/>Who can teach the One who knows all things<p/>Who can fathom all His wondrous deeds",
+                "Behold our God seated on His throne<p/>Come let us adore Him<p/>Behold our King nothing can compare<p/>Come let us adore Him",
+                "Who has felt the nails upon His hands<p/>Bearing all the guilt of sinful man<p/>God eternal humbled to the grave<p/>Jesus Savior risen now to reign",
+                "Behold our God seated on His throne<p/>Come let us adore Him<p/>Behold our King nothing can compare<p/>Come let us adore Him",
+                "<p style='margin-top: 3em'/>Behold our God seated on His throne<p/>Come let us adore Him<p/>Behold our King nothing can compare<p/>Come let us adore Him"
+            ]
+        },
+        {
+            "indexId": 71,
+            "title": "Hark the Herald Angels Sing",
+            "lyricParts": [
+                "Hark! the herald angels sing<p/>Glory to the newborn King!<p/>Peace on earth and mercy mild<p/>God and sinners reconciled",
+                "Joyful, all ye nations rise<p/>Join the triumph of the skies<p/>With angelic hosts proclaim<p/>\"Christ is born in Bethlehem\"",
+                "Hark! the herald angels sing<p/>\"Glory to the newborn King!\"",
+                "Hail the Heav'n-born Prince of Peace!<p/>Hail the Son of Righteousness!<p/>Light and life to all He brings<p/>Ris'n with healing in His wings",
+                "Mild He lays His glory by<p/>Born that man no more may die<p/>Born to raise the sons of earth<p/>Born to give them second birth",
+                "Hark! The herald angels sing<p/>\"Glory to the newborn King!\""
+            ]
+        },
+        {
+            "indexId": 72,
+            "title": "The First Noel",
+            "lyricParts": [
+                "The first Noel the angels did say<p/>Was to certain poor shepherds in fields as they lay<p/>In fields where they lay keeping their sheep<p/>On a cold winter's night that was so deep",
+                "Noel, Noel, Noel, Noel<p/>Born is the King of Israel!",
+                "They looked up and saw a star<p/>Shining in the east beyond them far<p/>And to the earth it gave great light<p/>And so it continued both day and night",
+                "Noel, Noel, Noel, Noel<p/>Born is the King of Israel!",
+                "Then entered in those Wise men three<p/>Fell reverently upon their knee<p/>And offered there in His presence<p/>Their gold and myrrh and frankincense",
+                "Noel, Noel, Noel, Noel<p/>Born is the kind of Israel!"
+            ]
+        },
+        {
+            "indexId": 73,
+            "title": "Now Why This Fear",
+            "lyricParts": [
+                "Now why this fear and unbelief<p/>Has not the Father put to grief<p/>His spotless Son for us",
+                "And will the righteous Judge of men<p/>Condemn me for that debt of sin<p/>Now cancelled at the cross",
+                "Jesus all my trust is in Your blood<p/>Jesus You've rescued us<p/>Through Your great love",
+                "Complete atonement You have made<p/>And by Your death have fully paid<p/>The debt Your people owed",
+                "No wrath remains for us to face<p/>We're sheltered by Your saving grace<p/>And sprinkled with Your blood",
+                "Jesus all my trust is in Your blood<p/>Jesus You've rescued us<p/>Through Your great love",
+                "How sweet the sound of saving grace<p/>How sweet the sound of saving grace<p/>Christ died for me<p/>(Repeat)",
+                "Be still my soul and know this peace<p/>The merits of your great High Priest<p/>Have bought your liberty",
+                "Rely then on His precious blood<p/>Don't fear your banishment from God<p/>Since Jesus sets you free",
+                "Jesus all my trust is in Your blood<p/>Jesus You've rescued us<p/>Through Your great love",
+                "How sweet the sound of saving grace<p/>How sweet the sound of saving grace<p/>Christ died for me<p/>(Repeat)",
+                "Jesus all my trust is in Your blood<p/>Jesus You've rescued us<p/>Through Your great love"
+            ]
+        },
+		{
+            "indexId": 74,
+            "title": "Not In Me",
+            "lyricParts": [
+                "No list of sins I have not done<p/>No list of vir-tues I pursue<p/>No list of those I am not like<p/>Can earn my-self a place with you",
+                "O God be mer-ciful to me<p/>I am a sinner through and through<p/>My only hope of righteousness<p/>Is not in me but only You",
+                "No hum-ble dress no fer-vent prayer<p/>No lifted hands no tearful song<p/>No re-citation of the truth<p/>Can jus-tify a single wrong",
+                "My righteous - ness is Jesus' life<p/>My debt was paid by Jesus' death<p/>My weary load was borne by Him<p/>And He a-lone can give me rest",
+                "No se-paration from the world<p/>No work I do no gift I give<p/>Can cleanse my conscience cleanse my hands<p/>I cannot cause my soul to live",
+                "But Jesus died and rose again<p/>The pow'r of death is over - thrown<p/>My God is mer-ciful to me<p/>And mer-ciful in Christ a-lone",
+                "My righteous - ness is Jesus' life<p/>My debt was paid by Jesus' death<p/>My weary load was borne by Him<p/>And He a-lone can give me rest<p/>Yes He a-lone can give me rest"
+			]
+        },
+        {
+            "indexId": 1000,
+            "title": "extra lyric parts/verses",
+            "lyricParts": [
+                "Christ by highest Heav'n adored<p/>Christ the everlasting Lord!<p/>Late in time behold Him come<p/>Offspring of a Virgin's womb",
+                "Veiled in flesh the Godhead see;<p/>Hail the incarnate Deity<p/>Pleased as man with man to dwell<p/>Jesus, our Emmanuel",
+                "Hark! the herald angels sing<p/>\"Glory to the newborn King!\""
+            ]
         }
-
     ]
 }
