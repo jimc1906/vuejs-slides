@@ -75,15 +75,16 @@
         },
         {
             "indexId": 7,
-            "title": "Here at your feet  I lay my past down",
+            "title": "At Your Feet",
             "lyricParts": [
-                "My wanderings all my mistakes down<p/>And I am free<p/>At Your Feet",
-                "Here at your feet  I lay this day down<p/>Not in my strength but in Yours I’ve found<p/>All I need - You’re all I need",
+                "Here at your feet I lay my past down<p/>My wanderings all my mistakes down<p/>And I am free",
+                "Here at your feet I lay this day down<p/>Not in my strength but in Yours I’ve found<p/>All I need - You’re all I need",
                 "Jesus Jesus at Your feet<p/>Oh to dwell and never leave<p/>Jesus Jesus at Your feet<p/>There is nowhere else for me<p/>There is nowhere else for me",
-                "Here at your feet  I lay my future down<p/>All of my dreams I give to You now<p/>And I find peace - I find peace",
+                "Here at your feet I lay my future down<p/>All of my dreams I give to You now<p/>And I find peace - I find peace",
                 "Jesus Jesus at Your feet<p/>Oh to dwell and never leave<p/>Jesus Jesus at Your feet<p/>There is nowhere else for me<p/>There is nowhere else for me",
-                "Here at your feet  I lay my life down<p/>For you my King You’re all I want now<p/>And my soul sings",
-                "Jesus Jesus at Your feet<p/>Oh to dwell and never leave<p/>Jesus Jesus at Your feet<p/>There is nowhere else for me<p/>There is nowhere else for me"
+                "Here at your feet I lay my life down<p/>For you my King You’re all I want now<p/>And my soul sings",
+                "Jesus Jesus at Your feet<p/>Oh to dwell and never leave<p/>Jesus Jesus at Your feet<p/>There is nowhere else for me<p/>There is nowhere else for me",
+                "Here at Your feet I lay my life down"
             ]
         },
         {
@@ -780,13 +781,15 @@
         },
         {
             "indexId": 60,
-            "title": "In the morning, when I rise",
+            "title": "Give Me Jesus",
             "lyricParts": [
-                "In the morning, when I rise<p/>In the morning, when I rise<p/>Give me Jesus<p/>Give Me Jesus",
+                "In the morning, when I rise<p/>In the morning, when I rise<p/>In the morning, when I rise<p/>Give me Jesus",
                 "Give me Jesus<p/>Give me Jesus<p/>You can have all this world<p/>Just give me Jesus",
                 "When I am alone<p/>When I am alone<p/>Oh, when I am alone<p/>Give me Jesus",
                 "Give me Jesus<p/>Give me Jesus<p/>You can have all this world<p/>Just give me Jesus",
-                "When I come to die<p/>When I come to die<p/>Oh, when I come to die<p/>Give me Jesus"
+                "When I come to die<p/>When I come to die<p/>Oh, when I come to die<p/>Give me Jesus",
+                "Give me Jesus<p/>Give me Jesus<p/>You can have all this world<p/>Just give me Jesus",
+                "<p style='margin-top: 3em'/>Give me Jesus<p/>Give me Jesus<p/>You can have all this world<p/>Just give me Jesus"
             ]
         },
         {
@@ -958,27 +961,96 @@
                 "Jesus all my trust is in Your blood<p/>Jesus You've rescued us<p/>Through Your great love"
             ]
         },
-		{
+        {
             "indexId": 74,
             "title": "Not In Me",
             "lyricParts": [
-                "No list of sins I have not done<p/>No list of vir-tues I pursue<p/>No list of those I am not like<p/>Can earn my-self a place with you",
-                "O God be mer-ciful to me<p/>I am a sinner through and through<p/>My only hope of righteousness<p/>Is not in me but only You",
-                "No hum-ble dress no fer-vent prayer<p/>No lifted hands no tearful song<p/>No re-citation of the truth<p/>Can jus-tify a single wrong",
-                "My righteous - ness is Jesus' life<p/>My debt was paid by Jesus' death<p/>My weary load was borne by Him<p/>And He a-lone can give me rest",
-                "No se-paration from the world<p/>No work I do no gift I give<p/>Can cleanse my conscience cleanse my hands<p/>I cannot cause my soul to live",
-                "But Jesus died and rose again<p/>The pow'r of death is over - thrown<p/>My God is mer-ciful to me<p/>And mer-ciful in Christ a-lone",
-                "My righteous - ness is Jesus' life<p/>My debt was paid by Jesus' death<p/>My weary load was borne by Him<p/>And He a-lone can give me rest<p/>Yes He a-lone can give me rest"
-			]
+                "No list of sins I have not done<p/>No list of virtues I pursue<p/>No list of those I am not like<p/>Can earn myself a place with you",
+                "O God be merciful to me<p/>I am a sinner through and through<p/>My only hope of righteousness<p/>Is not in me but only You",
+                "No humble dress no fervent prayer<p/>No lifted hands no tearful song<p/>No recitation of the truth<p/>Can justify a single wrong",
+                "My righteousness is Jesus' life<p/>My debt was paid by Jesus' death<p/>My weary load was borne by Him<p/>And He alone can give me rest",
+                "No separation from the world<p/>No work I do no gift I give<p/>Can cleanse my conscience cleanse my hands<p/>I cannot cause my soul to live",
+                "But Jesus died and rose again<p/>The pow'r of death is overthrown<p/>My God is merciful to me<p/>And merciful in Christ alone",
+                "My righteousness is Jesus' life<p/>My debt was paid by Jesus' death<p/>My weary load was borne by Him<p/>And He alone can give me rest<p/>Yes He alone can give me rest"
+            ]
         },
         {
-            "indexId": 1000,
-            "title": "extra lyric parts/verses",
-            "lyricParts": [
-                "Christ by highest Heav'n adored<p/>Christ the everlasting Lord!<p/>Late in time behold Him come<p/>Offspring of a Virgin's womb",
-                "Veiled in flesh the Godhead see;<p/>Hail the incarnate Deity<p/>Pleased as man with man to dwell<p/>Jesus, our Emmanuel",
-                "Hark! the herald angels sing<p/>\"Glory to the newborn King!\""
-            ]
+          "indexId": 75,
+          "title": "Come Christians Join To Sing",
+          "lyricParts": [
+            "Come Christians join to sing<p/>Alleluia, A-men<p/>Loud praise to Christ our King<p/>Alleluia, A-men",
+            "Let all with heart and voice<p/>Before His throne rejoice<p/>Praise is His gracious choice<p/>Alleluia, A-men",
+            "Come lift your hearts on high<p/>Alleluia, A-men<p/>Let praises fill the sky<p/>Alleluia, A-men",
+            "He is our Guide and Friend<p/>To us He'll condescend<p/>His love shall never end<p/>Alleluia, A-men",
+            "Praise yet our Christ again<p/>Alleluia, A-men<p/>Life shall not end the strain<p/>Alleluia, A-men",
+            "On heaven's blissful shore<p/>His goodness we'll adore<p/>Singing forevermore<p/>Alleluia, A-men"
+          ]
+        },
+        {
+          "indexId": 76,
+          "title": "King of Kings",
+          "lyricParts": [
+            "In the darkness we were waiting<p/>Without hope, without light<p/>'Til from Heaven You came running<p/>There was mercy in Your eyes",
+            "To fulfill the law and prophets<p/>To a virgin came the word<p/>From a throne of endless glory<p/>To a cradle in the dirt",
+            "Praise the Father, praise the Son<p/>Praise the Spirit, three in one<p/>God of glory, Majesty<p/>Praise forever to the King of Kings",
+            "To reveal the kingdom coming<p/>And to reconcile the lost<p/>To redeem the whole creation<p/>You did not despise the cross",
+            "For even in your suffering<p/>You saw to the other side<p/>Knowing this was our salvation<p/>Jesus for our sake you died",
+            "Praise the Father, praise the Son<p/>Praise the Spirit, three in one<p/>God of glory, Majesty<p/>Praise forever to the King of Kings",
+            "And the morning that You rose<p/>All of Heaven held its breath<p/>'Til that stone was moved for good<p/>For the Lamb had conquered death",
+            "And the dead rose from their tombs<p/>And the angels stood in awe<p/>For the souls of all who'd come<p/>To the Father are restored",
+            "And the church of Christ was born<p/>Then the Spirit lit the flame<p/>Now this gospel truth of old<p/>Shall not kneel, shall not faint",
+            "By His blood and in His name<p/>In His freedom I am free<p/>For the love of Jesus Christ<p/>Who has resurrected me",
+            "Praise the Father, praise the Son<p/>Praise the Spirit, three in one<p/>God of glory, Majesty<p/>Praise forever to the King of Kings<p style='margin-top: 20px'>Praise forever to the King of Kings<p/>"
+          ]
+        },
+        {
+          "indexId": 77,
+          "title": "I Stand Amazed (How Marvelous)",
+          "lyricParts": [
+            "I stand amazed in the presence<p/>Of Jesus the Nazarene<p/>And wonder how He could love me<p/>A sinner condemned unclean",
+            "Singin' how marvelous how wonderful<p/>And my song shall ever be<p/>How marvelous how wonderful<p/>Is my Savior's love for me",
+            "He took my sins and my sorrows<p/>He made them His very own<p/>And He bore the burden to Calvary<p/>And suffered and died alone",
+            "Singin' how marvelous how wonderful<p/>And my song shall ever be<p/>How marvelous how wonderful<p/>Is my Savior's love for me",
+            "And with the ransomed in glory<p/>His face I at last shall see<p/>It will be my joy through the ages<p/>To sing of His love for me",
+            "Singin' how marvelous how wonderful<p/>And my song shall ever be<p/>How marvelous how wonderful<p/>Is my Savior's love for me",
+            "<p style='margin-top:3em'/>Singin' how marvelous how wonderful<p/>And my song shall ever be<p/>How marvelous how wonderful<p/>Is my Savior's love for me"
+          ]
+      },
+      {
+        "indexId": 78,
+        "title": "At the Cross (Love Ran Red)",
+        "lyricParts": [
+          "There's a place where mercy reigns and never dies<p/>There's a place where streams of grace flow deep and wide<p/>Where all the love I've ever found<p/>Comes like a flood comes flowing down",
+          "At the cross, at the cross<p/>I surrender my life<p/>I'm in awe of You, I'm in awe of You<p/>Where Your love ran red and my sin washed white<p/>I owe all to You, I owe all to You (Jesus)",
+          "There's a place where sin and shame are powerless<p/>Where my heart has peace with God and forgiveness<p/>Where all the love I've ever found<p/>Comes like a flood comes flowing down",
+          "At the cross, at the cross<p/>I surrender my life<p/>I'm in awe of You, I'm in awe of You<p/>Where Your love ran red and my sin washed white<p/>I owe all to You, I owe all to You",
+          "Here my hope is found -- Here on holy ground<p/>Here I bow down, here I bow down<p/>Here arms open wide -- Here You saved my life<p/>Here I bow down, here I bow",
+          "At the cross, at the cross<p/>I surrender my life<p/>I'm in awe of You, I'm in awe of You<p/>Where Your love ran red and my sin washed white<p/>I owe all to You, I owe all to You<p/>I owe all to You, I owe all to You Jesus"
+        ]
+      },
+      {
+        "indexId": 79,
+        "title": "Yet Not I But Through Christ In Me",
+        "lyricParts": [
+          "What gift of grace is Jesus my redeemer<p/>There is no more for heaven now to give<p/>He is my joy my righteousness and freedom<p/>My steadfast love my deep and boundless peace",
+          "To this I hold my hope is only Jesus<p/>For my life is wholly bound to his<p/>Oh how strange and divine I can sing all is mine!<p/>Yet not I but through Christ in me",
+          "The night is dark but I am not forsaken<p/>For by my side the Saviour he will stay<p/>I labour on in weakness and rejoicing<p/>For in my need his power is displayed",
+          "To this I hold my Shepherd will defend me<p/>Through the deepest valley he will lead<p/>Oh the night has been won and I shall overcome!<p/>Yet not I but through Christ in me",
+          "No fate I dread I know I am forgiven<p/>The future sure the price it has been paid<p/>For Jesus bled and suffered for my pardon<p/>And he was raised to overthrow the grave",
+          "To this I hold my sin has been defeated<p/>Jesus now and ever is my plea<p/>Oh the chains are released I can sing I am free!<p/>Yet not I but through Christ in me",
+          "With every breath I long to follow Jesus<p/>For he has said that he will bring me home<p/>And day by day I know he will renew me<p/>Until I stand with joy before the throne",
+          "To this I hold my hope is only Jesus<p/>All the glory evermore to him<p/>When the race is complete still my lips shall repeat:</p>Yet not I but through Christ in me",
+          "When the race is complete still my lips shall repeat<p/>Yet not I but through Christ in me<p/>Yet not I but through Christ in me"
+        ]
+      },
+      {
+          "indexId": 1000,
+          "title": "extra lyric parts/verses",
+          "lyricParts": [
+              "Christ by highest Heav'n adored<p/>Christ the everlasting Lord!<p/>Late in time behold Him come<p/>Offspring of a Virgin's womb",
+              "Veiled in flesh the Godhead see;<p/>Hail the incarnate Deity<p/>Pleased as man with man to dwell<p/>Jesus, our Emmanuel",
+              "Hark! the herald angels sing<p/>\"Glory to the newborn King!\""
+          ]
         }
     ]
 }
