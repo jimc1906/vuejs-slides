@@ -6,7 +6,10 @@
       v-html="currentSong.lyricParts[this.currentSongSlideIndex]"
     ></div>
     <div class="footer">
-      <span style="float: left"><router-link to="/songlist"><button>Song List</button></router-link></span>
+      <span style="float: left">
+        <router-link to="/songlist"><button>Song List</button></router-link>
+        <span style="padding-left: 15px"><button v-show="showPrevious" v-on:click="previousSlide()">&lt; Previous Slide</button></span>
+      </span>
       <span class='hideInFullScreen' style="float: right"><button v-on:click="fullScreen()">Present</button></span>
     </div>
 
