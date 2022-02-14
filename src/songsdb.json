@@ -433,14 +433,15 @@
         },
         {
             "indexId": 33,
-            "title": "He became sin who knew no sin",
+            "title": "Jesus Messiah",
             "lyricParts": [
-                "That we might become His righteousness<p/>He humbled Himself and carried the cross<p/>Love so amazing -- love so amazing<p/>Jesus Messiah",
+                "He became sin who knew no sin<p/>That we might become His righteousness<p/>He humbled Himself and carried the cross<p/>Love so amazing -- love so amazing",
                 "Jesus Messiah Name above all names<p/>Blessed Redeemer Emmanuel<p/>The Rescue for sinners<p/>The Ransom from heaven<p/>Jesus Messiah  --  Lord of all",
                 "His body the bread His blood the wine<p/>Broken and poured out all for love<p/>The whole earth trembled and the veil was torn<p/>Love so amazing -- love so amazing",
                 "Jesus Messiah Name above all names<p/>Blessed Redeemer Emmanuel<p/>The Rescue for sinners<p/>The Ransom from heaven<p/>Jesus Messiah  --  Lord of all",
                 "All our hope is in You<p/>All our hope is in You<p/>All the glory to You God<p/>The light of the world",
-                "Jesus Messiah Name above all names<p/>Blessed Redeemer Emmanuel<p/>The Rescue for sinners<p/>The Ransom from heaven<p/>Jesus Messiah  --  Lord of all"
+                "Jesus Messiah Name above all names<p/>Blessed Redeemer Emmanuel<p/>The Rescue for sinners<p/>The Ransom from heaven<p/>Jesus Messiah  --  Lord of all",
+                "Jesus Messiah Lord of all<p/>The Lord of all<p/>the Lord of all"
             ]
         },
         {
@@ -448,6 +449,7 @@
             "title": "Away in a Manger",
             "lyricParts": [
                 "Away in a manger, no crib for a bed.<p/>The little Lord Jesus lay down his sweet head.<p/>The stars in the sky look down where he lay.<p/>The little Lord Jesus asleep on the hay.<p/>",
+                "The cattle are lowing, the Baby awakes<p/>But little Lord Jesus, no crying He makes<p/>I love Thee Lord Jesus, look down from the sky<p/>And stay by my cradle 'til morning is nigh",
                 "Be near me, Lord Jesus, I ask Thee to stay<p/>Close by me forever, and love me, I pray<p/>Bless all the dear children in Thy tender care<p/>And fit us for Heaven to live with Thee there."
             ]
         },
@@ -522,7 +524,7 @@
             "indexId": 40,
             "title": "Joy to the World",
             "lyricParts": [
-                "Joy to the World, the Lord has come!<p/>Let earth receive her King;<p/>Let every heart prepare Him room,",
+                "Joy to the World, the Lord is come!<p/>Let earth receive her King;<p/>Let every heart prepare Him room,",
                 "And Heaven and nature sing,<p/>And Heaven and nature sing,<p/>And Heaven, and Heaven and nature sing.",
                 "Joy to the World, the Savior reigns!<p/>Let men their songs employ;<p/>While fields and floods, rocks, hills, and plains",
                 "Repeat the sounding joy,<p/>Repeat the sounding joy,<p/>Repeat, repeat the sounding joy",
@@ -673,7 +675,8 @@
                 "T’was Grace that taught<p/>my heart to fear.<p/>And Grace, my fears relieved.<p/>How precious did that Grace appear…<p/>the hour I first believed.",
                 "My chains are gone, I’ve been set free.<p/>My God, My Saviour has ransomed me.<p/>And like a flood his mercy reigns.<p/>Unending love, amazing grace.",
                 "When we’ve been there ten thousand years…<p/>bright shining as the sun.<p/>We’ve no less days to sing God’s praise…<p/>then when we’ve first begun.",
-                "My chains are gone, I’ve been set free.<p/>My God, My Saviour has ransomed me.<p/>And like a flood his mercy reigns.<p/>Unending love, amazing grace."
+                "My chains are gone, I’ve been set free.<p/>My God, My Saviour has ransomed me.<p/>And like a flood his mercy reigns.<p/>Unending love, amazing grace.",
+                "Amazing Grace, how sweet the sound,<p/>That saved a wretch like me…<p/>I once was lost but now am found,<p/>Was blind, but now I see.<p/>Was blind, but now I see."
             ]
         },
         {
@@ -753,7 +756,8 @@
                 "Our Savior displayed on a criminal’s cross<p/>Darkness rejoiced as though Heaven had lost<p/>But then Jesus arose with our freedom in hand<p/>That’s when death was arrested and my life began",
                 "Oh Your grace so free washes over me<p/>You have made me new now life begins with You<p/>It’s Your endless love pouring down on us<p/>You have made us new now life begins with You",
                 "Oh we’re free free forever we’re free<p/>Come join the song of all the redeemed<p/>Yes we’re free free forever amen<p/>When death was arrested and my life began",
-                "Oh we’re free free forever we’re free<p/>Come join the song of all the redeemed<p/>Yes we’re free free forever amen<p/>When death was arrested and my life began"
+                "<p style='margin-top: 3em'/>Oh we’re free free forever we’re free<p/>Come join the song of all the redeemed<p/>Yes we’re free free forever amen<p/>When death was arrested and my life began",
+                "When death was arrested and my life began<p/>When death was arrested and my life began"
             ]
         },
         {
@@ -1041,6 +1045,36 @@
           "With every breath I long to follow Jesus<p/>For he has said that he will bring me home<p/>And day by day I know he will renew me<p/>Until I stand with joy before the throne",
           "To this I hold my hope is only Jesus<p/>All the glory evermore to him<p/>When the race is complete still my lips shall repeat:</p>Yet not I but through Christ in me",
           "When the race is complete still my lips shall repeat<p/>Yet not I but through Christ in me<p/>Yet not I but through Christ in me"
+        ]
+      },
+      {
+        "indexId": 80,
+        "title": "It's About the Cross",
+        "lyricParts": [
+          "It's not just about the manger<p/>Where the baby lay<p/>It's not all about the angels<p/>Who sang for him that day",
+          "It's not just about the shepherds<p/>Or the bright and shining star<p/>It's not all about the wisemen<p/>Who travelled from afar",
+          "It's about the cross<p/>It's about my sin<p/>It's about how Jesus came to be born once<p/>So that we could be born again",
+          "It's about the stone<p/>That was rolled away<p/>So that you and I could have real life someday<p/>It's about the cross<p/>It's about the cross",
+          "It's not just about the presents<p/>Underneath the tree<p/>It's not all about the feeling<p/>That the season brings to me",
+          "It's not just about coming home<p/>To be with those you love<p/>It's not all about the beauty<p/>In the snow I'm dreaming of",
+          "It's about the cross<p/>It's about my sin<p/>It's about how Jesus came to be born once<p/>So that we could be born again",
+          "It's about the stone<p/>That was rolled away<p/>So that you and I could have real life someday<p/>It's about the cross<p/>It's about the cross"
+        ]
+      },
+      {
+        "indexId": 81,
+        "title": "All Glory Be To Christ",
+        "lyricParts": [
+          "Should nothing of our efforts stand,<p/>no legacy survive<p/>Unless the Lord does raise the house,<p/>in vain its builders strive",
+          "To you who boast tomorrow's gain,<p/>tell me what is your life<p/>A mist that vanishes at dawn,<p/>all glory be to Christ",
+          "All glory by to Christ our king,<p/>all glory be to Christ<p/>His rule and reign we'll ever sing,<p/>all glory be to Christ",
+          "His will be done, His kingdom come,<p/>on earth as is above<p/>Who is Himself our daily bread,<p/>Praise Him the Lord of love",
+          "Let living water satisfy<p/>the thirsty without price<p/>We’ll take a cup of kindness yet,<p/>all glory be to Christ",
+          "All glory by to Christ our king,<p/>all glory be to Christ<p/>His rule and reign we'll ever sing,<p/>all glory be to Christ",
+          "When on the day the great I Am,<p/>the faithful and the true<p/>The Lamb who was for sinners slain<p/>is making all things new",
+          "Behold our God shall live with us<p/>and be our steadfast light<p/>And we shall e'er his people be,<p/>all glory be to Christ",
+          "All glory by to Christ our king,<p/>all glory be to Christ<p/>His rule and reign we'll ever sing,<p/>all glory be to Christ",
+          "<p style='margin-top: 3em'>All glory by to Christ our king,<p/>all glory be to Christ<p/>His rule and reign we'll ever sing,<p/>all glory be to Christ</p>"
         ]
       },
       {
