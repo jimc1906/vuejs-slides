@@ -58,7 +58,6 @@
                 "From the cross to the grave<p/>From the grave to the sky<p/>Lord, I lift your name on high",
                 "Lord, I lift your name on high<p/>Lord, I love to sing your praises<p/>I’m so glad you’re in my life<p/>I’m so glad you came to save us",
                 "You came from heaven to earth<p/>To show the way<p/>From the earth to the cross<p/>My debt to pay",
-                "",
                 "From the cross to the grave<p/>From the grave to the sky<p/>Lord, I lift your name on high",
                 "You came from heaven to earth<p/>To show the way<p/>From the earth to the cross<p/>My debt to pay",
                 "From the cross to the grave<p/>From the grave to the sky<p/>Lord, I lift your name on high<p/>Lord, I lift your name on high<p/>Lord, I lift your name on high"
@@ -155,8 +154,10 @@
         },
         {
             "indexId": 13,
-            "title": "Thank you Lord for saving my soul",
-            "lyricParts": []
+            "title": "Thank You Lord",
+            "lyricParts": [
+              "Thank you Lord for saving my soul<p/>Thank you Lord for making me whole<p/>Thank you Lord for giving to me<p/>Thy great salvation so rich and free"
+            ]
         },
         {
             "indexId": 14,
@@ -184,9 +185,9 @@
             "title": "All Hail the Power Jesus’ Name",
             "lyricParts": [
                 "All hail the pow’r of Jesus’ name<p/>Let angels prostrate fall<p/>Bring forth the royal diadem<p/>And crown Him Lord of all<p/>Bring forth the royal diadem<p/>And crown Him Lord of all",
-                "",
                 "Ye chosen seed of Israel’s race<p/>Ye ransomed from the fall<p/>Hail Him who saves you by His grace<p/>And crown Him Lord of all<p/>Hail Him who saves you by His grace<p/>And crown Him Lord of all",
-                "Let ev’ry kindred every tribe<p/>On this terrestrial ball<p/>To Him all majesty ascribe<p/>And crown Him Lord of all<p/>To Him all majesty ascribe<p/>And crown Him Lord of all"
+                "Let ev’ry kindred every tribe<p/>On this terrestrial ball<p/>To Him all majesty ascribe<p/>And crown Him Lord of all<p/>To Him all majesty ascribe<p/>And crown Him Lord of all",
+                "O that with yonder sacred throng<p/>We at His feet may fall<p/>We'll join the everlasting song<p/>And crown Him Lord of all<p/>We'll join the everlasting song<p/>And crown Him Lord of all"
             ]
         },
         {
@@ -209,7 +210,7 @@
             "lyricParts": [
                 "In Christ alone, my hope is found,<p/>He is my light, my strength, my song;<p/>This Cornerstone, this solid Ground,<p/>Firm through the fiercest drought and storm.",
                 "What heights of love, what depths of peace,<p/>When fears are stilled, when strivings cease!<p/>My Comforter, my All in All,<p/>Here in the love of Christ I stand.",
-                "In Christ alone! Who took on flesh<p/>Fullness of God in helpless babe!<p/>This gift of love and righteousness<p/>Scorned by the ones he came to save;",
+                "In Christ alone, Who took on flesh<p/>Fullness of God in helpless babe<p/>This gift of love and righteousness<p/>Scorned by the ones he came to save;",
                 "Till on that cross as Jesus died,<p/>The wrath of God was satisfied<p/>For every sin on Him was laid;<p/>Here in the death of Christ I live.",
                 "There in the ground His body lay<p/>Light of the world by darkness slain;<p/>Then bursting forth in glorious day<p/>Up from the grave He rose again!",
                 "And as He stands in victory<p/>Sin’s curse has lost its grip on me,<p/>For I am His and He is mine<p/>Bought with the precious blood of Christ.",
@@ -310,9 +311,9 @@
         },
         {
             "indexId": 24,
-            "title": "It’s there in the newborn cry",
+            "title": "Your Grace Finds Me",
             "lyricParts": [
-                "There in the light of ev’ry sunrise<p/>There in the shadows of this life<p/>Your great grace<p/>Your Grace Finds Me",
+                "It’s there in the newborn cry<p/>There in the light of ev’ry sunrise<p/>There in the shadows of this life<p/>Your great grace<p/>",
                 "It’s there on the mountain top<p/>There in the ev’ryday and the mundane<p/>There in the sorrow and the dancing<p/>Your great grace Oh such grace",
                 "From the creation to the cross<p/>There from the cross into eternity<p/>Your grace finds me<p/>Yes Your grace finds me",
                 "It’s there on a wedding day<p/>There in the weeping by the graveside<p/>There in the very breath we breathe<p/>Your great grace",
@@ -323,7 +324,8 @@
                 "Oh oh oh oh<p/>Oh oh oh oh",
                 "So I’m breathing in Your grace <p/>And breathing out Your praise<p/>I’m breathing in Your grace<p/>Forever I’ll be...",
                 "Breathing in Your grace <p/>And breathing out Your praise<p/>I’m breathing in Your grace<p/>Forever I’ll be...",
-                "Breathing in Your grace <p/>And breathing out Your praise<p/>I’m breathing in Your grace<p/>Forever … forever!"
+                "Breathing in Your grace <p/>And breathing out Your praise<p/>I’m breathing in Your grace<p/>Forever … forever!",
+                "Yes Your grace finds me<p/>Yes Your grace finds me"
             ]
         },
         {
@@ -421,14 +423,14 @@
         },
         {
             "indexId": 32,
-            "title": "How deep the Father’s love for us",
+            "title": "How Deep the Father’s Love For Us",
             "lyricParts": [
-                "How vast beyond all measure<p/>That He should give His only Son<p/>To make a wretch His treasure<p/>How Deep the Father’s Love For Us",
+                "How deep the Father’s love for us<p/>How vast beyond all measure<p/>That He should give His only Son<p/>To make a wretch His treasure",
                 "How great the pain of searing loss<p/>The Father turned His face away<p/>As wounds which mar the chosen one<p/>Bring many sons to glory",
                 "Behold the Man upon a cross<p/>My sin upon His shoulders<p/>Ashamed, I hear my mocking voice<p/>Call out among the scoffers",
-                "",
                 "It was my sin that held Him there<p/>Until it was accomplished<p/>His dying breath has brought me life<p/>I know that it is finished",
-                "I will not boast in anything<p/>No gifts, no power, no wisdom<p/>But I will boast in Jesus Christ<p/>His death and resurrection"
+                "I will not boast in anything<p/>No gifts, no power, no wisdom<p/>But I will boast in Jesus Christ<p/>His death and resurrection",
+                "Why should I gain from His reward?<p/>I cannot give an answer;<p/>But this I know with all my heart<p/>His wounds have paid my ransom."
             ]
         },
         {
@@ -557,7 +559,8 @@
                 "Now my debt is paid<p/>It is paid in full<p/>By the precious blood<p/>That my Jesus spilled",
                 "Now the curse of sin<p/>Has no hold on me<p/>Whom the Son sets free<p/>Oh is free indeed",
                 "Oh that rugged cross<p/>My salvation<p/>Where your love poured out over me<p/>Now my soul cries out<p/>Hallelujah<p/>Praise and honour unto Thee",
-                "See the stone is rolled away<p/>Behold the empty tomb<p/>Hallelujah God be praised<p/>He’s risen from the grave"
+               "See the stone is rolled away<p/>Behold the empty tomb<p/>Hallelujah God be praised<p/>He’s risen from the grave",
+                "Oh that rugged cross<p/>My salvation<p/>Where your love poured out over me<p/>Now my soul cries out<p/>Hallelujah<p/>Praise and honour unto Thee<p/>Praise ane honour unto Thee"
             ]
         },
         {
@@ -920,6 +923,9 @@
                 "Behold our God seated on His throne<p/>Come let us adore Him<p/>Behold our King nothing can compare<p/>Come let us adore Him",
                 "Who has felt the nails upon His hands<p/>Bearing all the guilt of sinful man<p/>God eternal humbled to the grave<p/>Jesus Savior risen now to reign",
                 "Behold our God seated on His throne<p/>Come let us adore Him<p/>Behold our King nothing can compare<p/>Come let us adore Him",
+                "Guys: You will reign forever! <p/> (Girls: Let Your glory fill the earth)<p/>Guys: You will reign forever! <p/> (Girls: Let Your glory fill the earth)",
+                "Guys: You will reign forever! <p/> (Girls: Let Your glory fill the ...)",
+                "Behold our God seated on His throne<p/>Come let us adore Him<p/>Behold our King nothing can compare<p/>Come let us adore Him",
                 "<p style='margin-top: 3em'/>Behold our God seated on His throne<p/>Come let us adore Him<p/>Behold our King nothing can compare<p/>Come let us adore Him"
             ]
         },
@@ -1090,7 +1096,49 @@
           "Oh the deep, deep love of Jesus<p/>Far surpassing all the rest<p/>It's an ocean full of blessing<p/>In the midst of ev'ry test",
           "Oh the deep, deep love of Jesus<p/>Mighty Savior, precious friend<p/>You will bring us home to glory<p/>Where Your love will never end",
           "Oh the deep, deep love;<p/>All I need and trust<p/>Is the deep, deep love of Jesus",
-          "Oh the deep, deep love;<p/>All I need and trust<p/>Is the deep, deep love of Jesus"
+          "<p style='margin-top: 3em'>Oh the deep, deep love;<p/>All I need and trust<p/>Is the deep, deep love of Jesus</p>"
+        ]
+      },
+      {
+        "indexId": 83,
+        "title": "Old Testament Books",
+        "lyricParts": [
+          "Genesis, Exodus, Leviticus<p/>Numbers, Deuteronomy<p/>Joshua, Judges, Ruth<p/>1st and 2nd Samuel",
+          "1st Kings, 2nd Kings, 1st and 2nd Chronicles<p/>Ezra, Nememiah"
+        ]
+      },
+      {
+        "indexId": 84,
+        "title": "What a Glorious Night",
+        "lyricParts": [
+          "The shepherds came to see the baby<p/>Stood by His mother's side<p/>Here laid the Savior inside a manger<p/>Oh what a glorious night<p/>Oh what a glorious night",
+          "I hear the angels singin' hallelujah<p/>Let the earth receive her King<p/>I know that love has come -- sing it out<p/>Jesus Christ is born<p/>Jesus Christ is born",
+          "The shepherds wondered they couldn't hide it<p/>Told ev'ryone in sight<p/>All were amazed when they heard<p/>How God came down on the glorious night<p/>God came down on this glorious night",
+          "I hear the angels singin' hallelujah<p/>Let the earth receive her King<p/>I know that love has come -- sing it out<p/>Jesus Christ is born<p/>Jesus Christ is born",
+          "<p style='margin-top: 3em'>I hear the angels singin' hallelujah</p><p/>Let the earth receive her King<p/>I know that love has come -- sing it out<p/>Jesus Christ is born<p/>Jesus Christ is born",
+          "All is calm now all is quiet<p/>A star is shining in the sky<p/>Below in Bethlehem the King is sleeping<p/>Oh what a glorious night<p/>Oh what a glorious night"
+        ]
+      },
+      {
+        "indexId": 84,
+        "title": "Christmas Medley",
+        "lyricParts": [
+            "O come, all ye faithful, joyful and triumphant;<p/>O come, ye, O come, ye, to Bethlehem.<p/>Come and behold Him, born the King of angels;",
+            "O come, let us adore Him;<p/>O come, let us adore Him;<p/>O come, let us adore Him;<p/>Christ the Lord.",
+            "Sing, choir of angels, sing in exultation;<p/>O sing, all ye citizens of heaven above!<p/>Glory to God, all glory in the highest;",
+            "O come, let us adore Him;<p/>O come, let us adore Him;<p/>O come, let us adore Him;<p/>Christ the Lord.",
+            "Yea, Lord, we greet Thee, born this holy morning;<p/>Jesus, to thee be all glory giv’n!<p/>Word of the Father, now in flesh appearing;",
+            "O come, let us adore Him;<p/>O come, let us adore Him;<p/>O come, let us adore Him;<p/>Christ the Lord.",
+            "Silent night, Holy Night,<p/>All is calm, All is bright.<p/>Round yon virgin, Mother and child.<p/>Holy Infant so tender and mild,<p/>Sleep in heavenly peace,<p/>Sleep in Heavenly peace.",
+            "Silent night, Holy Night,<p/>Son of God love’s pure light,<p/>Radiant beams from thy holy face,<p/>With the dawn of redeeming grace,<p/>Jesus Lord at thy birth,<p/>Jesus Lord at thy birth.",
+            "Away in a manger, no crib for a bed.<p/>The little Lord Jesus lay down his sweet head.<p/>The stars in the sky look down where he lay.<p/>The little Lord Jesus asleep on the hay.<p/>",
+            "Be near me, Lord Jesus, I ask Thee to stay<p/>Close by me forever, and love me, I pray<p/>Bless all the dear children in Thy tender care<p/>And fit us for Heaven to live with Thee there.",
+            "Joy to the World, the Lord is come!<p/>Let earth receive her King;<p/>Let every heart prepare Him room,",
+            "And Heaven and nature sing,<p/>And Heaven and nature sing,<p/>And Heaven, and Heaven and nature sing.",
+            "Joy to the World, the Savior reigns!<p/>Let men their songs employ;<p/>While fields and floods, rocks, hills, and plains",
+            "Repeat the sounding joy,<p/>Repeat the sounding joy,<p/>Repeat, repeat the sounding joy",
+            "He rules the world with truth and grace,<p/>And makes the nations prove<p/>The glories of His righteousness,",
+            "And wonders of his love,<p/>And wonders of his love,<p/>And wonders, wonders of his love"
         ]
       },
       {
