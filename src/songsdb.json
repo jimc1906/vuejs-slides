@@ -124,7 +124,7 @@
                 "You are my strength when I am weak.<p/>You are the treasure that I seek<p/>You are my all in all",
                 "Seeking you as a precious jewel<p/>Lord to give up I’d be a fool<p/>You are my all in all",
                 "Jesus, Lamb of God, <p/>Worthy is your name<p/>Jesus, Lamb of God, <p/>Worthy is your name",
-                "Taking my sin, my cross, my shame<p/>Rising again I praise your name<p/>You are my all in all",
+                "Taking my sin, my cross, my shame<p/>Rising again I bless your name<p/>You are my all in all",
                 "When I fall down you pick me up<p/>When I am dry you fill my cup<p/>You are my all in all",
                 "Jesus, Lamb of God, <p/>Worthy is your name<p/>Jesus, Lamb of God, <p/>Worthy is your name"
             ]
@@ -172,12 +172,13 @@
                 "We are more than conquerors, through Christ<p/>You have overcome this world, this life.<p/>We will not bow to sin or to shame.<p/>We are defiant in your name.",
                 "You are the fire that cannot be tamed.<p/>You are the power in our veins<p/>our Lord, our God, our conqueror.",
                 "Nothing is impossible,<p/>every chain is breakable.<p/>With You we are victorious.",
-                "",
                 "You are stronger than our hearts,<p/>You are greater than the dark.<p/>With You we are victorious.",
                 "Nothing is impossible,<p/>every chain is breakable.<p/>With You we are victorious.",
-                "",
                 "You are stronger than our hearts,<p/>You are greater than the dark.<p/>With You we are victorious.",
-                "We are more than conquerors, through Christ<p/>You have overcome this world, this life.<p/>We will not bow to sin or to shame.<p/>We are defiant in your name."
+                "We are more than conquerors, through Christ<p/>You have overcome this world, this life.<p/>We will not bow to sin or to shame.<p/>We are defiant in your name.",
+                "You are the fire that cannot be tamed.<p/>You are the power in our veins<p/>our Lord, our God, our conqueror.",
+                "We are more than conquerors, through Christ<p/>You have overcome this world, this life.<p/>We will not bow to sin or to shame.<p/>We are defiant in your name.",
+                "You are the fire that cannot be tamed.<p/>You are the power in our veins<p/>our Lord, our God."
             ]
         },
         {
@@ -369,7 +370,7 @@
                 "Teach me some melodious sonnet,<p/>Sung by flaming tongues above.<p/>Praise the mount! I’m fixed upon it,<p/>Mount of God’s unchanging love",
                 "Here I raise my Ebenezer;<p/>Hither by Thy help I’m come;<p/>And I hope, by Thy good pleasure,<p/>Safely to arrive at home.",
                 "Jesus sought me when a stranger,<p/>Wandering from the fold of God;<p/>He, to rescue me from danger,<p/>Interposed His precious blood.",
-                "O to grace how great a debtor<p/>Daily I’m constrained to be!<p/>Let that grace now like a fetter,<p/>Bind my wandering heart to Thee.",
+                "O to grace how great a debtor<p/>Daily I’m constrained to be!<p/>Let thy grace now like a fetter,<p/>Bind my wandering heart to Thee.",
                 "Prone to wander, Lord, I feel it<p/>Prone to leave the God I love;<p/>Here’s my heart, O take and seal it,<p/>Seal it for Thy courts above<p style='padding-top: 30px'>Here’s my heart, O take and seal it,<p/>Seal it for Thy courts above"
             ]
         },
@@ -487,7 +488,8 @@
                 "So here I am to worship, here I am to bow down<p/>Here I am to say that You’re my God<p/>And You’re altogether lovely altogether worthy<p/>Altogether wonderful to me",
                 "King of all days oh so highly exalted<p/>Glorious in heaven above<p/>Humbly You came to the earth You created<p/>All for love’s sake became poor",
                 "So here I am to worship, here I am to bow down<p/>Here I am to say that You’re my God<p/>And You’re altogether lovely altogether worthy<p/>Altogether wonderful to me",
-                "And I’ll never know how much it cost<p/>To see my sin upon that cross<p/>(Repeat)"
+                "And I’ll never know how much it cost<p/>To see my sin upon that cross<p/>(Repeat)",
+                "So here I am to worship, here I am to bow down<p/>Here I am to say that You’re my God<p/>And You’re altogether lovely altogether worthy<p/>Altogether wonderful to me"
             ]
         },
         {
@@ -1120,7 +1122,7 @@
         ]
       },
       {
-        "indexId": 84,
+        "indexId": 85,
         "title": "Christmas Medley",
         "lyricParts": [
             "O come, all ye faithful, joyful and triumphant;<p/>O come, ye, O come, ye, to Bethlehem.<p/>Come and behold Him, born the King of angels;",
@@ -1140,6 +1142,36 @@
             "He rules the world with truth and grace,<p/>And makes the nations prove<p/>The glories of His righteousness,",
             "And wonders of his love,<p/>And wonders of his love,<p/>And wonders, wonders of his love"
         ]
+      },
+      {
+          "indexId": 86,
+          "title": "New Testament Books",
+          "lyricParts": [
+            "Matthew, Mark, Luke, and John,<p/>Acts and the letter to the Romans,<p/>1st and 2nd Corinthians,<p/>Galatians and Ephesians",
+            "Philippians, Colossians,<p/>1st and 2nd Thessalonians,<p/>1st and 2nd Timothy,<p/>Titus, and Philemon",
+            "Hebrews and the book of James,<p/>1st and 2nd Peter,<p/>1st and 2nd, 3rd John,<p/>Jude and Revelation"
+          ]
+      },
+      {
+          "indexId": 87,
+          "title": "New Testament Books - Level II",
+          "lyricParts": [
+            "Matthew, ____, ____, and ____,<p/>Acts and the letter to the ____,<p/>1st and 2nd Corinthians,<p/>_______ and _________",
+            "Philippians, _________,<p/>1st and 2nd _________,<p/>1st and 2nd Timothy,<p/>Titus, and _________",
+            "Hebrews and the book of _________,<p/>1st and 2nd Peter,<p/>___ __ ___ ___ _____,<p/>Jude and __________"
+          ]
+      },
+      {
+          "indexId": 88,
+          "title": "Lift High the Name of Jesus",
+          "lyricParts": [
+            "Lift high the name of Jesus, Of Jesus our King.<p/>Make known the power of His grace, The beauty of His peace.<p/>Remember how His mercy reached - And we cried out to Him.<p/>He lifted us to solid ground, To freedom from our sin.",
+            "Oh sing my soul,<p/>And tell all He's done,<p/>Till the earth and heavens are filled with His glory!",
+            "Lift high the name of Jesus, Of Jesus our Lord.<p/>His power in us is greater than, Is greater than this world.<p/>To share the reason for our hope, To serve with love and grace,<p/>That all who see Him shine through us Might bring the Father praise.",
+            "Oh sing my soul,<p/>And tell all He's done,<p/>Till the earth and heavens are filled with His glory!",
+            "Lift high the name of Jesus, Of Jesus our Light.<p/>No other name on earth can save, Can raise a soul to life.<p/>He opens up our eyes to see The harvest He has grown.<p/>We labor in His fields of grace As He leads sinners home.",
+            "Oh sing my soul,<p/>And tell all He's done,<p/>Till the earth and heavens are filled with His glory!"
+          ]
       },
       {
           "indexId": 1000,
