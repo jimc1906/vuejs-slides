@@ -1,0 +1,3 @@
+To run with a `n`-managed node version...
+
+~/node_modules/n/bin/n exec 10.18.1  npm run serve
