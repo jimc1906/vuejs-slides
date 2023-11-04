@@ -1190,11 +1190,11 @@
         "indexId": 90,
         "title": "The Master Has Come",
         "lyricParts": [
-          "The Master hath come and He calls us to follow<p>The track of the foot-prints He leaves on our way<p>Far over the mountain and through the deep hollow<p>The path leads us on to the mansions of day",
-          "The Master hath called us the children who fear Him<p>Who march 'neath Christ's banner His own little band<p>We love Him and seek Him we long to be near Him<p>And rest in the light of His beautiful land",
-          "The Master hath called us the road may be dreary<p>And dangers and sorrows are strewn on the track<p>But God's Holy Spirit shall comfort the weary<p>We follow the Saviour and cannot turn back<p>The Master hath called us",
-          "Though doubt and temptation<p>May compass our journey we cheerfully sing<p>Press onward look upward through much tribulation<p>The children of Zion must follow their King",
-          "The Master hath called us in life's early morning<p>With spirits as fresh as the dew on the sod<p>We turn from the world<p>With its smiles and its scorning<p>To cast in our lot with the people of God",
+          "The Master hath come and He calls us to follow<p/>The track of the foot-prints He leaves on our way<p/>Far over the mountain and through the deep hollow<p>The path leads us on to the mansions of day",
+          "The Master hath called us the children who fear Him<p/>Who march 'neath Christ's banner His own little band<p>We love Him and seek Him we long to be near Him<p>And rest in the light of His beautiful land",
+          "The Master hath called us the road may be dreary<p/>And dangers and sorrows are strewn on the track<p/>But God's Holy Spirit shall comfort the weary<p/>We follow the Saviour and cannot turn back<p>The Master hath called us",
+          "Though doubt and temptation<p/>May compass our journey we cheerfully sing<p>Press onward look upward through much tribulation<p/>The children of Zion must follow their King",
+          "The Master hath called us in life's early morning<p/>With spirits as fresh as the dew on the sod<p>We turn from the world<p/>With its smiles and its scorning<p>To cast in our lot with the people of God",
           "We plead for His blessing and trust in His love<p>And through the green pastures<p>Beside the still waters<p>He'll lead us at last to His Kingdom above"
         ]
     },
@@ -1202,8 +1202,7 @@
         "indexId": 91,
         "title": "To the Lamb Forever and Ever",
         "lyricParts": [
-            I heard every creature in heaven,
-every creature in heaven, on earth,
+            "I heard every creature in heaven,<p>every creature in heaven, on earth,
 I heard every creature in heaven,
 every creature in heaven, on earth,
 under the earth, on the sea,
