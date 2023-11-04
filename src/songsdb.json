@@ -1214,14 +1214,39 @@
             "Blessing and honor<p>and glory and power<p/>be to the one seated on the throne,<p/>and to the Lamb, forever and ever!"
         ]
     },
-      {
-          "indexId": 1000,
-          "title": "extra lyric parts/verses",
-          "lyricParts": [
-              "Christ by highest Heav'n adored<p/>Christ the everlasting Lord!<p/>Late in time behold Him come<p/>Offspring of a Virgin's womb",
-              "Veiled in flesh the Godhead see;<p/>Hail the incarnate Deity<p/>Pleased as man with man to dwell<p/>Jesus, our Emmanuel",
-              "Hark! the herald angels sing<p/>\"Glory to the newborn King!\""
-          ]
-        }
-    ]
+    {
+      "indexId": 92,
+      "title": "Gracious Father - Hebrews 4:15",
+      "lyricParts": [
+        "For we do not have a high priest<p/>who is unable to sympathize with our weaknesses<p/>But one who has been tempted in ev'ry way as we are<p/>in ev'ry way as we are, yet without sin.",
+        "For we do not have a high priest<p/>who is unable to sympathize with our weaknesses<p/>But one who has been tempted in ev'ry way as we are<p/>in ev'ry way as we are, yet without sin.",
+        "For we do not have a high priest<p/>who is unable to sympathize with our weaknesses<p/>But one who has been tempted in ev'ry way as we are<p/>in ev'ry way as we are, yet without sin."
+      ]
+    },
+    {
+      "indexId": 93,
+      "title": "Crown Him With Many Crowns",
+      "lyricParts": [
+        "Crown Him with many crowns<p/>The Lamb upon His throne<p/>Hark how the heavenly anthem drowns<p/>All music but its own",
+        "Awake my soul and sing<p/>Of Him who died for thee<p/>And hail Him as thy matchless King<p/>Through all eternity",
+        "Crown Him the Lord of life<p/>Who triumphed o'er the grave<p/>And rose victorious in the strife<p/>For those He came to save",
+        "His glories now we sing<p/>Who died and rose on high<p/>Who died eternal life to bring<p/>And lives that death may die",
+        "Crown Him the Lord of love<p/>Behold His hands and side<p/>Rich wounds yet visible above<p/>In beauty glorified",
+        "No angel in the sky<p/>Can fully bear that sight<p/>But downward bends each burning eye<p/>At mysteries so bright",
+        "Crown Him the Lord of peace<p/>Whose power a sceptre sways<p/>From pole to pole That wars may cease<p/>And all be prayer and praise",
+        "His reign shall know no end<p/>And round His pierced feet<p/>Fair flowers of paradise extend<p/>Their fragrance ever sweet",
+        "Crown Him the Lord of years<p/>The Potentate of time<p/>Creator of the rolling spheres<p/>Ineffably sublime",
+        "All hail Redeemer hail<p/>For Thou hast died for me<p/>Thy praise shall never never fail<p/> Throughout eternity"
+      ]
+    },
+    {
+      "indexId": 1000,
+      "title": "extra lyric parts/verses",
+       "lyricParts": [
+         "Christ by highest Heav'n adored<p/>Christ the everlasting Lord!<p/>Late in time behold Him come<p/>Offspring of a Virgin's womb",
+         "Veiled in flesh the Godhead see;<p/>Hail the incarnate Deity<p/>Pleased as man with man to dwell<p/>Jesus, our Emmanuel",
+         "Hark! the herald angels sing<p/>\"Glory to the newborn King!\""
+       ]
+    }
+  ]
 }
