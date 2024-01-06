@@ -2,7 +2,7 @@
 
 The front web page for K-Station Music (https://sites.google.com/view/ibc-music) is a Google Site. That site is owned by a common Google account. The account is `ibckidsmusic` and the password is `strumthechords`.
 
-Log into https://site.google.com and click on the Site project:
+Log into https://sites.google.com and click on the Site project:
 
 <img width="320" alt="image" src="https://github.com/jimc1906/vuejs-slides/assets/660365/7121a89a-b9dc-408d-9674-ef9882979c76">
 
