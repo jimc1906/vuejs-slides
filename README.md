@@ -14,10 +14,15 @@ Enter the link obtained from the VueJS site (http://ibcmusic-vuejs.s3-website-us
 
 <img width="918" alt="image" src="https://github.com/jimc1906/vuejs-slides/assets/660365/42e82779-4600-410a-b9a9-4bb090f8cc23">
 
+For the 11:10 class, click the button and edit the URL:
+
+<img width="1224" alt="image" src="https://github.com/jimc1906/vuejs-slides/assets/660365/0c9d84fa-f1f2-4cf7-9da9-9d3c5b4f9fa1">
+
 After updating any links necessary, ensure that the Google Site is published.
 
 <img width="735" alt="image" src="https://github.com/jimc1906/vuejs-slides/assets/660365/d7685a94-7808-44b1-8616-34d3446710f9">
 
+Congratulations! You have updated the slides. Thank you for serving the kids of Immanuel and pointing them to Christ!
 
 # Vue JS Slide List
 
