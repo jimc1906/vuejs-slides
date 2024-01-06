@@ -6,11 +6,11 @@ Log into https://sites.google.com and click on the Site project:
 
 <img width="320" alt="image" src="https://github.com/jimc1906/vuejs-slides/assets/660365/7121a89a-b9dc-408d-9674-ef9882979c76">
 
-Clicking on one of the images (for Oldtown/Downtown) should reveal a button with a link:
+Clicking on one of the images (for Oldtown/Downtown) should reveal a button with a link. Click the pencil icon to edit the link.
 
 <img width="623" alt="image" src="https://github.com/jimc1906/vuejs-slides/assets/660365/33c6d71b-0345-480e-be10-89d25e52f354">
 
-Enter the link obtained from the VueJS site obtained by adding songs and right-clicking on the Navigate to Slides button and selecting Copy Link Address.
+Enter the link obtained from the VueJS site (http://ibcmusic-vuejs.s3-website-us-east-1.amazonaws.com/#/) obtained by adding songs and right-clicking on the Navigate to Slides button and selecting Copy Link Address.
 
 <img width="918" alt="image" src="https://github.com/jimc1906/vuejs-slides/assets/660365/42e82779-4600-410a-b9a9-4bb090f8cc23">
 
