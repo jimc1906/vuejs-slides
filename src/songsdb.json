@@ -111,7 +111,7 @@
                 "I will serve you, Lord<p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
                 "<p style='padding-top: 20px'>I will serve you, Lord<p/>with all my heart,<p/><p/>with all my soul<p/>with all my mind, <p/>with all my strength",
                 "With all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
-                "I will serve you, Lord<p/>with all my heart,<p/>with all my soul<p/>with all my mind,<p/>with all my strength",
+                "Love the Lord Your God <p/>with all your heart,<p/>with all your soul<p/>with all your mind,<p/>with all your strength",
                 "With all my heart, with all my soul<p/>With all my mind, with all my strength<p/>With all my heart, with all my soul<p/>With all my mind, with all my strength",
                 "I will love you, Lord <p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength",
                 "<p style='padding-top: 20px'>I will love you, Lord<p/><p/>with all my heart, <p/>with all my soul<p/>with all my mind, <p/>with all my strength"
@@ -1106,7 +1106,9 @@
         "title": "Old Testament Books",
         "lyricParts": [
           "Genesis, Exodus, Leviticus<p/>Numbers, Deuteronomy<p/>Joshua, Judges, Ruth<p/>1st and 2nd Samuel",
-          "1st Kings, 2nd Kings, 1st and 2nd Chronicles<p/>Ezra, Nememiah"
+          "1st Kings, 2nd Kings, 1st and 2nd Chronicles<p/>Ezra, Nehemiah",
+          "Esther, Job, Psalms, Proverbs<p/>Ecclesiastes, Song of Solomon<p/>Isaiah, Jeremiah, Lamentations, Ezekiel",
+          "Daniel, Hosea, Joel, Amos, Obadiah<p/>Jonah, Micah, Nahum<p/>Habakkuk, Zephaniah<p/>Haggai, Zechariah, and the last book Malachi"
         ]
       },
       {
@@ -1227,6 +1229,27 @@
         "His glories now we sing<p/>Who died and rose on high<p/>Who died eternal life to bring<p/>And lives that death may die",
         "Crown Him the Lord of love<p/>Behold His hands and side<p/>Those wounds yet visible above<p/>In beauty glorified",
         "All Hail redeemer hail<p/>For thou hast died for me<p/>Thy praise and glory shall not fail<p/>Throughout eternity"
+      ]
+    },
+    {
+      "indexId": 94,
+      "title": "Fruit of the Spirit",
+      "lyricParts": [
+        "Love, joy, peace, patience, kindness<p/>goodness, faithfulness, gentleness,<p/>and self control"
+      ]
+    },
+    {
+      "indexId": 95,
+      "title": "All Creatures of Our God and King",
+      "lyricParts": [
+        "All creatures of our God and King<p/>Lift up your voice and with us sing<p/>O praise Him alleluia",
+        "Thou burning sun with golden beam<p/>Thou silver moon with softer gleam<p/>Oh praise Him Oh praise Him<p/>Alleluia alleluia alleluia",
+        "Let all things their Creator bless<p/>And worship Him in humbleness<p/>O praise Him alleluia",
+        "Praise praise the Father praise the Son<p/>And praise the Spirit three in One<p/>O praise Him O praise Him<p/>Alleluia alleluia alleluia",
+        "All the redeemed washed by His blood<p/>Come and rejoice in His great love<p/>Oh praise Him alleluia",
+        "Christ has defeated every sin<p/>Cast all your burdens now on Him<p/>Oh praise Him Oh praise Him<p/>Alleluia alleluia alleluia",
+        "He shall return in pow'r to reign<p/>Heaven and earth will join to say<p/>Oh praise Him alleluia",
+        "Then who shall fall on bended knee<p/>All creatures of our God and King<p/>Oh praise Him Oh praise Him<p/>Alleluia alleluia alleluia"
       ]
     },
     {
